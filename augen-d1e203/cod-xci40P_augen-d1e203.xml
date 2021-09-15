@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>20</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>20</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e203">
+            <head xml:id="augen-d1e203-Hd1e102">20</head>
+            <div xml:id="augen-d1e203-Dd1e105">
+               <head xml:id="augen-d1e203-Hd1e107">Caput 75</head>
+               <p xml:id="augen-d1e203-d1e110"> Sane qui sceleratissime vivunt nec curant talem vitam moresque corrigere, et inter ipsa
+        facinora et flagitia sua eleemosynas frequentare non cessant, frustra ideo sibi blandiuntur
+        quoniam Dominus ait: Date eleemosynam et ecce omnia munda sunt vobis; hoc enim quam late
+        pateat non intellegunt. Sed ut intellegant, attendant quibus dixerit. Nempe in Evangelio sic
+        scriptum est: Cum loqueretur rogavit illum quidam pharisaeus ut pranderet apud se, et
+        ingressus recubuit. Pharisaeus autem coepit intra se reputans dicere quare non baptizatus
+        esset ante prandium. Et ait Dominus ad illum: Nunc vos pharisaei quod deforis est calicis et
+        catini mundatis; quod autem intus est vestrum, plenum est rapina et iniquitate; stulti,
+        nonne qui fecit id quod foris est, etiam id quod intus est fecit? verumtamen quod superest,
+        date eleemosynam, et ecce omnia munda sunt vobis. Itane hoc intellecturi sumus ut
+        pharisaeis, non habentibus fidem Christi, etiam si non in eum crediderint nec renati fuerint
+        ex aqua et Spiritu Sancto, munda sint omnia tantum si eleemosynas dederint sicut isti eas
+        dandas putant, cum sint immundi omnes quos non mundat fides Christi de qua scriptum est:
+        Fide mundans corda eorum; et dicat Apostolus: Immundis autem et infidelibus nihil est
+        mundum, sed polluta sunt eorum et mens et conscientia ? Quomodo ergo pharisaeis omnia
+        munda essent, si eleemosynas darent et fideles non essent? Aut quomodo fideles essent, si in
+        Christum credere atque in eius gratia renasci noluissent? Et tamen verum est quod audierant
+        : Date eleemosynam et ecce omnia munda sunt vobis. </p>
+            </div>
+            <div xml:id="augen-d1e203-Dd1e114">
+               <head xml:id="augen-d1e203-Hd1e116">Caput 76</head>
+               <p xml:id="augen-d1e203-d1e119"> Qui enim vult ordinate dare eleemosynam a se ipso debet incipere et eam sibi primum dare.
+        Est enim eleemosyna opus misericordiae, verissimeque dictum est: Miserere animae tuae
+        placens Deo. Propter hoc renascimur, ut Deo placeamus, cui merito displicet quod
+        nascendo contraximus. Haec est prima eleemosyna quam nobis dedimus, quoniam nos ipsos
+        miseros per miserantis Dei misericordiam requisivimus, iustum iudicium eius confitentes quo
+        miseri effecti sumus, de quo dicit Apostolus: Iudicium quidem ex uno in condemnationem,
+        et magnae caritati eius gratias agentes, de qua idem ipse dicit gratiae praedicator:
+        Commendat autem suam caritatem Deus in nobis quoniam adhuc cum peccatores essemus Christus
+        pro nobis mortuus est, ut et nos veraciter de nostra miseria iudicantes, et Deum
+        caritate quam donavit ipse diligentes, pie recteque vivamus. Quod iudicium et caritatem Dei
+        cum pharisaei praeterirent decimabant quidem propter eleemosynas quas faciebant etiam
+        quaecumque minutissima fructuum suorum, et ideo non dabant eleemosynas a se incipientes
+        secumque prius misericordiam facientes. Propter quem dilectionis ordinem dictum est: Diliges
+        proximum tuum tamquam te ipsum. Cum ergo increpasset eos quod forinsecus se lavabant,
+        intus autem rapina et iniquitate pleni erant, admonens quadam eleemosyna quam sibi homo
+        debet primitus dare, interiora mundari: Verumtamen, inquit, quod superest date eleemosynam
+        et ecce omnia munda sunt vobis. Deinde ut ostenderet quid admonuisset et quid ipsi facere
+        non curarent, ne illum putarent suas eleemosynas ignorare: Sed vae vobis, inquit,
+        pharisaeis, tamquam diceret: Ego quidem commonui vos eleemosynam dandam per quam vobis munda
+        sint omnia: sed vae vobis qui decimatis mentam et rutam et omne holus; has enim novi
+        eleemosynas vestras, ne de illis me nunc vos admonuisse arbitremini: et praeteritis iudicium
+        et caritatem Dei, qua eleemosyna possetis ab omni inquinamento interiore mundari, ut
+        vobis munda essent et corpora quae lavatis. Hoc est enim omnia, et interiora scilicet et
+        exteriora, sicut alibi legitur: Mundate quae intus sunt, et quae foris sunt munda erunt.
+        Sed ne istas eleemosynas quae fiunt de fructibus terrae respuisse videretur: Haec, inquit,
+        oportuit facere, id est iudicium et caritatem Dei: et illa non omittere, id est
+        eleemosynas fructuum terrenorum. </p>
+            </div>
+            <div xml:id="augen-d1e203-Dd1e123">
+               <head xml:id="augen-d1e203-Hd1e125">Caput 77</head>
+               <p xml:id="augen-d1e203-d1e128"> Non ergo se fallant qui per eleemosynas quaslibet largissimas fructuum suorum vel
+        cuiuscumque pecuniae impunitatem se emere existimant in facinorum immanitate ac flagitiorum
+        nequitia permanendi. Non solum enim haec faciunt, sed ita diligunt ut in eis semper optent,
+        tantum si possint impune, versari. Qui autem diligit iniquitatem odit animam suam, et
+        qui odit animam suam non est in eam misericors sed crudelis. Diligendo eam quippe secundum
+        saeculum odit secundum Deum. Si ergo vellet ei dare eleemosynam per quam illi essent munda
+        omnia, odisset eam secundum saeculum et diligeret secundum Deum. Nemo autem dat eleemosynam
+        qualemlibet, nisi unde det ab illo accipiat qui non eget: ideo dictum est: Misericordia eius
+        praeveniet me. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

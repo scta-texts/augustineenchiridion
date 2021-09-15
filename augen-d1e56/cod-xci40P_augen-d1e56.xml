@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>2</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>2</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e56">
+            <head xml:id="augen-d1e56-Hd1e102">2</head>
+            <div xml:id="augen-d1e56-Dd1e105">
+               <head xml:id="augen-d1e56-Hd1e107">Caput 7</head>
+               <p xml:id="augen-d1e56-d1e110"><!--. -->Symbolum et oratio dominica complectuntur fidem, spem et charitatem. Nam ecce tibi est
+        Symbolum et dominica oratio. Quid brevius auditur aut legitur? Quid facilius memoriae
+        commendatur? Quia enim de peccato gravi miseria premebatur genus humanum, et divina
+        indigebat misericordia, gratiae Dei tempus propheta praedicens ait: Et erit: omnis qui
+        invocaverit nomen Domini salvus erit. Propter hoc oratio. Sed Apostolus cum ad ipsam
+        gratiam commendandam hoc propheticum commemorasset testimonium, continuo subiecit: Quomodo
+        autem invocabunt in quem non crediderunt?  Propter hoc Symbolum. In his duobus tria illa
+        intuere: fides credit, spes et caritas orant. Sed sine fide esse non possunt, ac per hoc et
+        fides orat. Propterea quippe dictum est: Quomodo invocabunt in quem non crediderunt?</p>
+
+
+            </div>
+            <div xml:id="augen-d1e56-Dd1e115">
+               <head xml:id="augen-d1e56-Hd1e117">Caput 8</head>
+
+
+               <p xml:id="augen-d1e56-d1e120">Generalis explicatio fidei, spei et charitatis, et earum nexus. Quid autem sperari potest
+        quod non creditur? Porro aliquid etiam quod non speratur, credi potest. Quis namque fidelium
+        poenas non credit impiorum, nec sperat tamen? Et quisquis eas imminere sibi credit ac fugaci
+        motu animi exhorret, rectius timere dicitur quam sperare. Quae duo quidam distinguens ait:
+        Liceat sperare timenti. Non autem ab alio poeta, quamvis meliore, proprie dictum est: Hunc
+        ego si potui tantum sperare dolorem. Denique nonnulli in arte grammatica verbi huius
+        utuntur exemplo ad ostendendam impropriam dictionem, et aiunt: Sperare dixit pro timere. Est
+        itaque fides et malarum rerum et bonarum, quia et bona creduntur et mala, et hoc fide bona,
+        non mala. Est etiam fides et praeteritarum rerum et praesentium et futurarum. Credimus enim
+        Christum mortuum, quod iam praeteriit; credimus sedere ad dexteram Patris, quod nunc est;
+        credimus venturum ad iudicandum, quod futurum est. Item fides et suarum rerum est et
+        alienarum; nam et se quisque credit aliquando esse coepisse, nec fuisse utique sempiternum,
+        et alios atque alia. Nec solum de aliis hominibus multa quae ad religionem pertinent, verum
+        etiam de angelis credimus. Spes autem non nisi bonarum rerum est, nec nisi futurarum, et ad
+        eum pertinentium qui earum spem gerere perhibetur. Quae cum ita sint, propter has causas
+        distinguenda erat fides ab spe, sicut vocabulo ita et rationabili differentia. Nam quod
+        attinet ad non videre, sive quae creduntur, sive quae sperantur, fidei speique commune est.
+        In Epistula quippe ad Hebraeos, qua teste usi sunt illustres catholicae fidei ac Regulae
+        defensores, fides esse dicta est Convictio rerum quae non videntur. Quamvis quando se
+        quisque non verbis, non testibus, non denique ullis argumentis, sed praesentium rerum
+        evidentiae credidisse (hoc est fidem accommodasse) dicit, non ita videtur absurdus ut recte
+        reprehendatur in verbo eique dicatur: " Vidisti; ergo non credidisti "; unde putari potest
+        non esse consequens ut non videatur res quaecumque creditur. Sed melius hanc appellamus
+        fidem quam divina eloquia docuerunt, earum scilicet rerum quae non videntur. De spe quoque
+        ait Apostolus: Spes quae videtur, non est spes: quod enim videt quis quid sperat? Si autem
+        quod non videmus speramus per patientiam expectamus. Cum ergo bona nobis futura esse
+        creduntur, nihil aliud quam sperantur. Iam de amore quid dicam, sine quo fides nihil
+        prodest? Spes vero esse sine amore non potest. Denique ut ait apostolus Iacobus: Et daemones
+        credunt et contremiscunt : nec tamen sperant vel amant, sed potius quod speramus et amamus
+        credendo venturum esse, formidant. Propter quod et apostolus Paulus fidem quae per
+        dilectionem operatur  approbat atque commendat, quae utique sine spe non potest esse.
+        Proinde nec amor sine spe est nec sine amore spes, nec utrumque sine fide.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

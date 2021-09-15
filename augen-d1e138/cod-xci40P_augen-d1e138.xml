@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>12</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>12</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e138">
+            <head xml:id="augen-d1e138-Hd1e102">12</head>
+            <div xml:id="augen-d1e138-Dd1e105">
+               <head xml:id="augen-d1e138-Hd1e107">Caput 38</head>
+               <p xml:id="augen-d1e138-d1e110"> Numquid tamen ideo dicturi sumus patrem hominis Christi esse Spiritum Sanctum, ut Deus
+        Pater Verbum genuerit, Spiritus Sanctus hominem, ex qua utraque substantia Christus unus
+        esset, et Dei Patris filius secundum Verbum et Spiritus Sancti filius secundum hominem, quod
+        eum Spiritus Sanctus tamquam pater eius de matre virgine genuisset? Quis hoc dicere audebit?
+        Nec opus est ostendere disputando quanta alia sequantur absurda, cum hoc ipsum iam ita sit
+        absurdum ut nullae fideles aures id valeant sustinere. Proinde sicut confitemur, Dominus
+        noster Iesus Christus, qui de Deo Deus, homo autem natus est de Spiritu Sancto et de virgine
+        Maria, utraque substantia, divina scilicet atque humana, Filius est unicus Dei Patris
+        omnipotentis, de quo procedit Spiritus Sanctus. Quomodo ergo dicimus Christum natum de
+        Spiritu Sancto, si non eum genuit Spiritus Sanctus? An quia fecit eum? Quoniam Dominus
+        noster Iesus Christus in quantum Deus est, omnia per ipsum facta sunt; in quantum autem
+        homo est, et ipse factus est, sicut Apostolus dicit: Factus est ex semine David secundum
+        carnem. Sed cum illam creaturam quam virgo concepit et peperit, quamvis ad solam personam
+        Filii pertinentem, tota Trinitas fecerit; neque enim separabilia sunt opera Trinitatis; cur
+        in ea facienda solus Spiritus Sanctus nominatus est? An et quando unus trium in aliquo opere
+        nominatur, universa operari Trinitas intellegitur? Ita vero est, et exemplis doceri potest.
+        Sed non est in hoc diutius immorandum. Illud enim movet, quomodo dictum sit: Natus de
+        Spiritu Sancto, cum filius nullo modo sit Spiritus Sancti. Neque enim quia mundum istum
+        fecit Deus, eum fas est dici filium, aut eum natum de Deo; sed factum vel creatum vel
+        conditum vel institutum ab illo, vel si quid huiusmodi recte possumus dicere. Hic ergo, cum
+        confiteamur natum de Spiritu Sancto et Virgine Maria, quomodo non sit filius Spiritus Sancti
+        et sit filius Virginis Mariae cum et de illo et de illa sit natus, explicare difficile est;
+        procul dubio quippe non sic de illo ut de patre, sic autem de illa ut de matre natus est.
+      </p>
+            </div>
+            <div xml:id="augen-d1e138-Dd1e114">
+               <head xml:id="augen-d1e138-Hd1e116">Caput 29</head>
+               <p xml:id="augen-d1e138-d1e119"> Non igitur concedendum est quidquid de aliqua re nascitur continuo eiusdem rei filium
+        nuncupandum. Ut enim omittam aliter de homine nasci filium, aliter capillum peduculum
+        lumbricum, quorum nihil est filius; ut ergo haec omittam, quia tantae rei deformiter
+        comparantur, certe qui nascuntur ex aqua et Spiritu, non aquae filios eos rite dixerit
+        quispiam, sed plane dicuntur filii Dei Patris et matris Ecclesiae. Sic ergo de Spiritu
+        Sancto natus est, filius Dei Patris, non Spiritus Sancti. Nam et illud quod de capillo et
+        ceteris diximus ad hoc tantum valet ut admoneamur non omne quod de aliquo nascitur etiam
+        filium eius de quo nascitur posse dici; sicut non omnes qui dicuntur alicuius filii,
+        consequens est ut de illo etiam nati esse dicantur, sicut sunt qui adoptantur. Dicuntur
+        etiam filii gehennae  non ex illa nati sed in illam praeparati, sicut filii regni 
+        praeparantur in regnum. </p>
+            </div>
+            <div xml:id="augen-d1e138-Dd1e123">
+               <head xml:id="augen-d1e138-Hd1e125">Caput 40</head>
+               <p xml:id="augen-d1e138-d1e128"> Cum itaque de aliquo nascatur aliquid etiam non eo modo ut sit filius, nec rursus omnis
+        qui dicitur filius de illo sit natus cuius dicitur filius, profecto modus iste quo natus est
+        Christus de Spiritu Sancto non sicut filius, et de Maria virgine sicut filius, insinuat
+        nobis gratiam Dei qua homo, nullis praecedentibus meritis, in ipso exordio naturae suae quo
+        esset coepit, Verbo Dei copularetur in tantam personae unitatem ut idem ipse esset filius
+        Dei qui filius hominis, et filius hominis qui filius Dei, ac sic in naturae humanae
+        susceptione fieret quodammodo ipsa gratia illi homini naturalis quae nullum peccatum posset
+        admittere. Quae gratia propterea per Spiritum Sanctum fuerat significanda quia ipse proprie
+        sic est Deus ut dicatur etiam Dei donum; unde sufficienter loqui per longum esset, si
+        tamen id fieri potest, valde prolixae disputationis est. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

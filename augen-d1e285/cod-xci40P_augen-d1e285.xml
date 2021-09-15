@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>30</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>30</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e285">
+            <head xml:id="augen-d1e285-Hd1e102">30</head>
+            <div xml:id="augen-d1e285-Dd1e105">
+               <head xml:id="augen-d1e285-Hd1e107">Caput 114</head>
+               <p xml:id="augen-d1e285-d1e110">Ex ista fidei confessione, quae breviter Symbolo continetur, et carnaliter cogitata lac
+        parvulorum  est, spiritaliter autem considerata atque tractata cibus est fortium,
+        nascitur spes bona fidelium cui caritas sancta comitatur. Sed de his omnibus quae fideliter
+        sunt credenda, ea tantum ad spem pertinent quae in oratione dominica continentur. Maledictus
+        enim omnis, sicut divina testantur eloquia, qui spem ponit in homine : ac per hoc et in
+        se ipso qui spem ponit, huius maledicti vinculo innectitur. Ideo non nisi a Domino Deo
+        petere debemus quidquid speramus nos vel bene operaturos vel pro bonis operibus adepturos.
+      </p>
+            </div>
+            <div xml:id="augen-d1e285-Dd1e114">
+               <head xml:id="augen-d1e285-Hd1e116">Caput 115</head>
+               <p xml:id="augen-d1e285-d1e119"> Proinde apud evangelistam Matthaeum septem petitiones continere dominica videtur oratio
+       , quarum in tribus aeterna poscuntur, in reliquis quattuor temporalia, quae tamen propter
+        aeterna consequenda sunt necessaria. Nam quod dicimus: Sanctificetur nomen tuum, adveniat
+        regnum tuum, fiat voluntas tua sicut in caelo et in terra  (quod non absurde quidam
+        intellexerunt " in spiritu et in corpore "), omnino sine fine retinenda sunt; et hic
+        inchoata quantumcumque proficimus augentur in nobis, perfecta vero, quod in alia vita
+        sperandum est, semper possidebuntur. Quod vero dicimus: Panem nostrum cotidianum da nobis
+        hodie, et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris et ne nos
+        inferas in temptationem sed libera nos a malo, quis non videat ad praesentis vitae
+        indigentiam pertinere? In illa itaque vita aeterna, ubi nos semper speramus futuros, et
+        nominis Dei sanctificatio, et regnum et voluntas eius, in nostro spiritu et corpore perfecte
+        atque immortaliter permanebunt. Panis vero cotidianus ideo dictus est quia hic est
+        necessarius quantus animae carnique tribuendus est, sive spiritaliter sive carnaliter sive
+        utroque intellegatur modo. Hic est etiam quam poscimus remissio, ubi est commissio
+        peccatorum; hic temptationes quae nos ad peccandum vel alliciunt vel impellunt; hic denique
+        malum unde cupimus liberari; illic autem nihil istorum est. </p>
+            </div>
+            <div xml:id="augen-d1e285-Dd1e123">
+               <head xml:id="augen-d1e285-Hd1e125">Caput 116</head>
+               <p xml:id="augen-d1e285-d1e128"> Evangelista vero Lucas in oratione dominica petitiones non septem sed quinque complexus
+        est, nec ab isto utique discrepavit, sed quomodo istae septem sint intellegendae ipsa
+        sua brevitate commonuit. Nomen quippe Dei sanctificatur in spiritu, Dei autem regnum in
+        carnis resurrectione venturum est. Ostendens ergo Lucas tertiam petitionem duarum superiorum
+        esse quodammodo repetitionem, magis eam praetermittendo fecit intellegi. Deinde tres alias
+        adiungit, de pane cotidiano, de remissione peccatorum, de temptatione vitanda. At vero quod
+        ille in ultimo posuit: Sed libera nos a malo, iste non posuit, ut intellegeremus ad
+        illud superius, quod de temptatione dictum est, pertinere. Ideo quippe ait: Sed libera, non
+        ait " et libera ", tamquam unam petitionem esse demonstrans: " Noli hoc, sed hoc ", ut sciat
+        unusquisque in eo se liberari a malo quod non infertur in temptationem. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

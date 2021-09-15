@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>25</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>25</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e244">
+            <head xml:id="augen-d1e244-Hd1e102">25</head>
+            <div xml:id="augen-d1e244-Dd1e105">
+               <head xml:id="augen-d1e244-Hd1e107">Caput 98</head>
+               <p xml:id="augen-d1e244-d1e110">Quis porro tam impie desipiat ut dicat Deum malas hominum voluntates, quas voluerit quando
+        voluerit ubi voluerit, in bonum non posse convertere? Sed cum facit, per misericordiam
+        facit; cum autem non facit, per iudicium non facit, quoniam: Cuius vult miseretur et quem
+        vult obdurat. Quod ut diceret Apostolus, gratiam commendabat; ad cuius commendationem de
+        illis in Rebeccae utero geminis fuerat iam locutus, quibus nondum natis, vel aliquid
+        agentibus boni seu mali: Ut secundum electionem propositum Dei maneret, non ex operibus sed
+        ex vocante, dictum est ei quia maior serviet minori. Propter quod adhibuit alterum
+        propheticum testimonium ubi scriptum est: Iacob dilexi, Esau autem odio habui. Sentiens
+        autem quemadmodum posset hoc quod dictum est permovere eos qui penetrare intellegendo non
+        possunt hanc altitudinem gratiae: Quid ergo dicemus, ait, numquid iniquitas est apud Deum?
+        Absit. Iniquum enim videtur ut sine ullis bonorum malorumve operum meritis unum Deus
+        diligat, oderit alterum. Qua in re si futura opera vel bona huius vel mala illius quae Deus
+        utique praesciebat vellet intellegi, nequaquam diceret non ex operibus, sed diceret " ex
+        futuris operibus ", eoque modo istam solveret quaestionem, immo nullam quam solvi opus esset
+        faceret quaestionem. Nunc vero cum respondisset: Absit, id est, absit ut sit iniquitas apud
+        Deum, mox ut probaret nulla hoc iniquitate Dei fieri: Moysi enim dicit, inquit, Miserebor
+        cuius misertus ero, et misericordiam praestabo cui misericors fuero. Quis enim nisi
+        insipiens Deum iniquum putet, sive iudicium poenale ingerat digno sive misericordiam
+        praestet indigno? Denique infert et dicit: Igitur non volentis neque currentis, sed
+        miserentis est Dei. Ambo itaque gemini natura irae filii nascebantur, nullis quidem
+        operibus propriis sed originaliter ex Adam vinculo damnationis obstricti, sed qui dixit:
+        Miserebor cuius misertus ero, Iacob dilexit per misericordiam gratuitam, Esau autem odio
+        habuit per iudicium debitum. Quod cum deberetur ambobus, in altero alter agnovit non de suis
+        distantibus meritis sibi esse gloriandum quod in eadem causa idem supplicium non incurrit,
+        sed de divinae gratiae largitate, quia non volentis neque currentis, sed miserentis est Dei.
+        Altissimo quippe ac saluberrimo sacramento universa facies atque ut ita dixerim vultus
+        sanctarum Scripturarum bene intuentes id admonere invenitur, ut qui gloriatur in Domino
+        glorietur. </p>
+            </div>
+            <div xml:id="augen-d1e244-Dd1e114">
+               <head xml:id="augen-d1e244-Hd1e116">Caput 99</head>
+               <p xml:id="augen-d1e244-d1e119"> Cum autem Dei misericordiam commendasset in eo quod ait: Igitur non volentis neque
+        currentis, sed miserentis est Dei, deinde ut etiam iudicium commendaret (quoniam in quo
+        non fit misericordia non iniquitas fit sed iudicium, non est quippe iniquitas apud Deum),
+        continuo subiunxit atque ait: Dicit enim Scriptura Pharaoni: Quia ad hoc te excitavi, ut
+        ostendam in te potentiam meam, et ut annuntietur nomen meum in universa terra. Quibus
+        dictis, ad utrumque concludens, id est et ad misericordiam et ad iudicium: Ergo, inquit,
+        cuius vult miseretur et quem vult obdurat. Miseretur scilicet magna bonitate, obdurat
+        nulla iniquitate, ut nec liberatus de suis meritis glorietur nec damnatus nisi de suis
+        meritis conqueratur. Sola enim gratia redemptos discernit a perditis, quos in unam
+        perditionis concreverat massam ab origine ducta causa communis. Hoc autem qui eo modo audit
+        ut dicat: Quid ergo conqueritur? nam voluntati eius quis resistit?, tamquam propterea
+        malus non videatur esse culpandus quia Deus cuius vult miseretur et quem vult obdurat, absit
+        ut pudeat nos hoc respondere quod respondisse videmus Apostolum: O homo, tu quis es qui
+        respondeas Deo? numquid dicit figmentum ei qui se finxit: Quare sic me fecisti? an non habet
+        potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud vero in
+        contumeliam?  Hoc loco enim quidam stulti putant Apostolum in responsione defecisse, et
+        inopia reddendae rationis repressisse contradictoris audaciam. Sed magnum habet pondus quod
+        dictum est: O homo, tu qui es?, et in talibus quaestionibus ad suae capacitatis
+        considerationem revocat hominem, verbo quidem brevi, sed re ipsa magna est redditio
+        rationis. Si enim haec non capit, quis est qui respondeat Deo? Si autem capit, magis non
+        invenit quid respondeat. Videt enim, si capit, universum genus humanum tam iusto iudicio
+        divino in apostatica radice damnatum ut etiam si nullus inde liberaretur nemo recte posset
+        Dei vituperare iustitiam; et qui liberantur sic oportuisse liberari ut ex pluribus non
+        liberatis, atque in damnationem iustissimam redactis, ostenderetur quid meruisset universa
+        consparsio, et quo etiam istos debitum iudicium Dei duceret nisi eius indebita misericordia
+        subveniret, ut volentium de suis meritis gloriari, omne os obstruatur, et qui gloriatur
+        in Domino glorietur. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>24</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>24</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e236">
+            <head xml:id="augen-d1e236-Hd1e102">24</head>
+            <div xml:id="augen-d1e236-Dd1e105">
+               <head xml:id="augen-d1e236-Hd1e107">Caput 94</head>
+               <p xml:id="augen-d1e236-d1e110">Remanentibus itaque angelis et hominibus reprobis in aeterna poena, tunc sancti scient
+        plenius quid boni eis contulerit gratia. Tunc rebus ipsis evidentius apparebit quod in
+        Psalmo scriptum est: Misericordiam et iudicium cantabo tibi Domine, quia nisi per
+        indebitam misericordiam nemo liberatur, et nisi per debitum iudicium nemo damnatur. </p>
+            </div>
+            <div xml:id="augen-d1e236-Dd1e114">
+               <head xml:id="augen-d1e236-Hd1e116">Caput 95</head>
+               <p xml:id="augen-d1e236-d1e119"> Tunc non latebit, quod nunc latet, cum de duobus parvulis unus esset assumendus per
+        misericordiam, alius per iudicium relinquendus, in quo, is qui assumeretur, agnosceret
+        quid sibi per iudicium deberetur nisi misericordia subveniret, cur ille potius quam iste
+        fuerit assumptus, cum causa una esset ambobus; cur autem apud quosdam non factae sint
+        virtutes quae si factae fuissent egissent illi homines paenitentiam et factae sint apud eos
+        qui non fuerant credituri. Apertissime namque dicit Dominus: Vae tibi, Corozaim, vae tibi
+        Bethsaida, quia si in Tyro et Sidone factae essent virtutes quae factae sunt in vobis, olim
+        in cilicio et cinere paenitentiam egissent. Nec utique Deus iniuste noluit salvos fieri,
+        cum possent salvi esse si vellent. Tunc in clarissima sapientiae luce videbitur, quod nunc
+        piorum fides habet ante quam manifesta cognitione videatur, quam certa et immutabilis et
+        efficacissima sit voluntas Dei: quam multa possit et non velit, nihil autem velit quod non
+        possit; quamque sit verum quod in Psalmo canitur: Deus autem noster in caelo sursum; in
+        caelo et in terra omnia quaecumque voluit fecit. Quod utique non est verum si aliqua
+        voluit et non fecit, et quod est indignius, ideo non fecit quoniam ne fieret quod volebat
+        omnipotens, voluntas hominis impedivit. Non ergo fit aliquid nisi omnipotens fieri velit,
+        vel sinendo ut fiat vel ipse faciendo. </p>
+            </div>
+            <div xml:id="augen-d1e236-Dd1e123">
+               <head xml:id="augen-d1e236-Hd1e125">Caput 96</head>
+               <p xml:id="augen-d1e236-d1e128"> Nec dubitandum est Deum facere bene etiam sinendo fieri quaecumque fiunt male. Non enim
+        hoc nisi iusto iudicio sinit, et profecto bonum est omne quod iustum est. Quamvis ergo ea
+        quae mala sunt, in quantum mala sunt non sint bona tamen ut non sola bona sed etiam sint et
+        mala, bonum est. Nam nisi esset hoc bonum, ut essent et mala, nullo modo esse sinerentur ab
+        omnipotente bono, cui procul dubio quam facile est quod vult facere, tam facile est quod non
+        vult esse non sinere. Hoc nisi credimus, periclitatur ipsum nostrae confessionis initium,
+        qua nos in Deum Patrem omnipotentem credere confitemur. Neque enim ob aliud veraciter
+        vocatur omnipotens nisi quoniam quidquid vult potest, nec voluntate cuiuspiam creaturae
+        voluntatis omnipotentis impeditur effectus. </p>
+            </div>
+            <div xml:id="augen-d1e236-Dd1e132">
+               <head xml:id="augen-d1e236-Hd1e134">Caput 97</head>
+               <p xml:id="augen-d1e236-d1e137"> Quam ob rem videndum est quemadmodum sit de Deo dictum, quia et hoc verissime Apostolus
+        dixit: Qui omnes homines vult salvos fieri. Cum enim non omnes, sed multo plures non
+        fiunt salvi, videtur utique non fieri quod Deus vult fieri, humana scilicet voluntate
+        impediente voluntatem Dei. Quando enim quaeritur causa cur non omnes salvi fiant, responderi
+        solet, quia hoc ipsi nolunt. Quod quidem dici de parvulis non potest, quorum nondum est
+        velle seu nolle. Nam quod infantili motu faciunt si eorum voluntati iudicaretur esse
+        tribuendum quando baptizantur, cum resistunt quantum possunt, etiam nolentes eos salvos
+        fieri diceremus. Sed in Evangelio apertius Dominus compellans impiam civitatem: Quotiens,
+        inquit, volui colligere filios tuos sicut gallina pullos suos, et noluisti, tamquam Dei
+        voluntas superata sit hominum voluntate, et infirmissimis nolendo impedientibus non potuerit
+        facere potentissimus quod volebat. Et ubi est illa omnipotentia qua in caelo et in terra
+        omnia quaecumque voluit fecit, si colligere filios Hierusalem voluit et non fecit? An potius
+        illa quidem filios suos ab ipso colligi noluit? Sed ea quoque nolente filios eius collegit
+        ipse quos voluit; quia in caelo et in terra non quaedam voluit et fecit, quaedam vero voluit
+        et non fecit, sed omnia quaecumque voluit fecit. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

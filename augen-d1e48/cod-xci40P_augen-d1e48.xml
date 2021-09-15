@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>1</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e48">
+            <head xml:id="augen-d1e48-Hd1e102">1</head>
+            <div xml:id="augen-d1e48-Dd1e105">
+               <head xml:id="augen-d1e48-Hd1e107">Caput 1</head>
+               <p xml:id="augen-d1e48-d1e110">Sapientiae verae donum exopiat Laurentio. Dici non potest, dilectissime fili Laurenti,
+        quantum tua eruditione delecter, quantumque te cupiam esse sapientem, non ex eorum numero de
+        quibus dicitur: Ubi sapiens? ubi scriba? ubi conquisitor huius saeculi? Nonne stultam fecit
+        Deus sapientiam huius mundi?  sed ex eorum de quibus scriptum est: Multitudo sapientium
+        sanitas est orbis terrarum  et quales vult Apostolus fieri quibus dicit: Volo autem vos
+        sapientes quidem esse in bono, simplices autem in malo.</p>
+
+
+            </div>
+            <div xml:id="augen-d1e48-Dd1e114">
+               <head xml:id="augen-d1e48-Hd1e116">Caput 2</head>
+               <p xml:id="augen-d1e48-d1e119">Sapientia hominis, pietas. Hominis autem sapientia pietas est. Habes hoc in libro sancti
+        Iob. Nam ibi legitur quod ipsa Sapientia dixerit homini: Ecce pietas est sapientia. Si
+        autem quaeras quam dixerit eo loco pietatem, distinctius in Graeco reperies, qui est Dei
+        cultus. Dicitur enim Graece pietas et aliter, id est quo nomine significatur bonus cultus,
+        quamvis et hoc praecipue referatur ad colendum Deum. Sed nihil est commodius illo nomine,
+        quo evidenter Dei cultus expressus est, cum quid esset hominis sapientia diceretur.
+        Quaerisne aliquid dici brevius, qui petis a me, ut breviter magna dicantur? An hoc ipsum
+        tibi fortasse desideras breviter aperiri atque in sermonem colligi brevem, quonam modo sit
+        colendus Deus?</p>
+            </div>
+            <div xml:id="augen-d1e48-Dd1e123">
+               <head xml:id="augen-d1e48-Hd1e125">Caput 3</head>
+               <p xml:id="augen-d1e48-d1e128"> Hic si respondero fide spe caritate colendum Deum, profecto dicturus es brevius hoc dictum
+        esse quam velis, ac deinde petiturus ea tibi breviter explicari quae ad singula tria ista
+        pertineant, quid credendum scilicet, quid sperandum, quid amandum sit. Quod cum fecero, ibi
+        erunt omnia illa quae in epistula tua quaerenda posuisti: cuius exemplum si est penes te,
+        facile est ut ea revolvas et relegas: si autem non est, commemorante me recolas.</p>
+            </div>
+            <div xml:id="augen-d1e48-Dd1e132">
+               <head xml:id="augen-d1e48-Hd1e134">Caput 4</head> 
+              <p xml:id="augen-d1e48-d1e137">Quaestiones Larentii. Responsiones Augustini. Vis enim tibi, ut scribis,
+      librum a me fieri quem Enchiridion, ut dicunt, habeas et de tuis manibus non recedat,
+      continens postulata, id est quid sequendum maxime, quid propter diversas principaliter
+      haereses sit fugiendum, in quantum ratio pro religione contendat, vel quid in ratione cum
+      fides sit sola non veniat, quid primum quid ultimum teneatur, quae totius definitionis summa
+      sit, quod certum propriumque fidei catholicae fundamentum. Haec autem omnia quae requiris
+      procul dubio scies diligenter sciendo quid credi, quid sperari debeat, quid amari. Haec enim
+      maxime, immo vero sola, in religione sequenda sunt: his qui contradicit aut omnino a Christi
+      nomine alienus est, aut haereticus. Haec sunt defendenda ratione, quae vel a sensibus corporis
+      inchoata vel ab intellegentia mentis inventa. Quae autem nec corporeo sensu experti sumus, nec
+      mente assequi valuimus ac valemus, eis sine ulla dubitatione credenda sunt testibus a quibus
+      ea quae divina vocari iam meruit, Scriptura confecta est: qui ea sive per corpus, sive per
+      animum divinitus adiuti vel videre vel etiam praevidere potuerunt.
+              </p>
+            </div>
+            <div xml:id="augen-d1e48-Dd1e142">
+               <head xml:id="augen-d1e48-Hd1e144">Caput 5</head>
+
+
+               <p xml:id="augen-d1e48-d1e147">Responsio ad q. <!----> et ad q.<!-- -->. Cum autem initio fidei quae per dilectionem operatur  imbuta
+        mens fuerit, tendit bene vivendo etiam ad speciem pervenire, ubi est sanctis et perfectis
+        cordibus nota et ineffabilis pulchritudo cuius plena visio est summa felicitas. Hoc est
+        nimirum quod requiris, quid primum, quid ultimum teneatur: inchoari fide, perfici specie.
+        Haec enim totius definitionis est summa. Certum vero propriumque fidei catholicae
+        fundamentum Christus est: Fundamentum enim aliud, ait Apostolus, nemo potest ponere praeter
+        id quod positum est, quod est Christus Iesus. Neque hoc ideo negandum est proprium
+        fundamentum esse fidei catholicae, quia putari potest aliquibus haereticis hoc nobiscum esse
+        commune. Si enim diligenter quae ad Christum pertinent cogitentur, nomine tenus invenitur
+        Christus apud quoslibet haereticos qui se christianos vocari volunt, re ipsa vero non est
+        apud eos. Quod ostendere nimis longum est, quoniam commemorandae sunt omnes haereses sive
+        quae fuerunt sive quae sunt sive quae potuerunt esse sub vocabulo christiano, et quam sit
+        hoc verum per singulas quasque monstrandum: quae disputatio tam multorum est voluminum ut
+        etiam infinita videatur.</p>
+            </div>
+            <div xml:id="augen-d1e48-Dd1e155">
+               <head xml:id="augen-d1e48-Hd1e157">Caput 6</head>
+               <p xml:id="augen-d1e48-d1e160">Quod mole exiguum possit manu contineri. Tu autem Enchiridion a nobis postulas, id est quod
+        manu possit astringi, non quod armaria possit onerare. Ut igitur ad illa tria redeamus per
+        quae diximus colendum Deum, fidem, spem, caritatem; facile est ut dicatur quid credendum,
+        quid sperandum, quid amandum sit. Sed quemadmodum adversus eorum qui diversa sentiunt
+        calumnias defendatur, operosioris uberiorisque doctrinae est: quae ut habeatur non brevi
+        enchiridio manus debet impleri, sed grandi studio pectus accendi.</p>
+
+
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

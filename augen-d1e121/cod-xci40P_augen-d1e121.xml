@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>10</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>10</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e121">
+            <head xml:id="augen-d1e121-Hd1e102">10</head>
+            <div xml:id="augen-d1e121-Dd1e105">
+               <head xml:id="augen-d1e121-Hd1e107">Caput 33</head>
+               <p xml:id="augen-d1e121-d1e110">Tenebatur itaque iusta damnatione genus humanum, et omnes erant irae filii. De qua ira
+        scriptum est: Quoniam omnes dies nostri defecerunt et in ira tua defecimus; anni nostri
+        sicut aranea meditabuntur. De qua ira dicit etiam Iob: Homo enim natus ex muliere brevis
+        vitae et plenus irae. De qua ira dicit et Dominus Iesus: Qui credit in Filium habet vitam
+        aeternam; qui autem non credit in Filium non habet vitam, sed ira Dei manet super eum.
+        Non ait: Veniet, sed: Manet super eum. Cum hac quippe omnis homo nascitur, propter quod
+        dicit Apostolus: Fuimus enim et nos natura filii irae, sicut et ceteri. In hac ira cum
+        essent homines per originale peccatum, tanto gravius et perniciosius quanto maiora vel plura
+        insuper addiderant, necessarius erat mediator, hoc est reconciliator, qui hanc iram
+        sacrificii singularis, cuius erant umbrae omnia sacrificia Legis et Prophetarum, oblatione
+        placaret. Unde dicit Apostolus: Si enim cum inimici essemus reconciliati sumus Deo per
+        mortem Filii eius, multo magis reconciliati nunc in sanguine ipsius salvi erimus ab ira per
+        ipsum. Cum autem Deus irasci dicitur, non eius significatur perturbatio qualis est in
+        animo irascentis hominis, sed ex humanis motibus translato vocabulo vindicta eius, quae non
+        nisi iusta est, irae nomen accepit. Quod ergo per mediatorem reconciliamur Deo, et accipimus
+        Spiritum Sanctum ut ex inimicis efficiamur filii: Quotquot enim Spiritu Dei aguntur, hi
+        filii sunt Dei : haec est gratia Dei per Iesum Christum Dominum nostrum. </p>
+            </div>
+            <div xml:id="augen-d1e121-Dd1e114">
+               <head xml:id="augen-d1e121-Hd1e116">Caput 34</head>
+               <p xml:id="augen-d1e121-d1e119"> De quo mediatore longum est ut quanta dignum est tanta dicantur, quamvis ab homine dici
+        digne non possint. Quis enim hoc solum congruentibus explicet verbis, quod: Verbum caro
+        factum est et habitavit in nobis, ut crederemus in Dei Patris omnipotentis unicum Filium,
+        natum de Spiritu Sancto et virgine Maria? Ita quippe Verbum caro factum est, a divinitate
+        carne suscepta, non in carnem divinitate mutata. Carnem porro hic hominem debemus accipere,
+        a parte totum significante locutione, sicut dictum est: Quoniam ex operibus legis non
+        iustificabitur omnis caro, id est omnis homo. Nam nihil naturae humanae in illa
+        susceptione fas est dicere defuisse, sed naturae ab omni peccati nexu omni modo liberae: non
+        qualis de utroque sexu nascitur per concupiscentiam carnis cum obligatione delicti, cuius
+        reatus regeneratione diluitur, sed qualem de virgine nasci oportebat, quem fides matris, non
+        libido, conceperat. Quo si vel nascente corrumperetur eius integritas, non iam ille de
+        virgine nasceretur, eumque falso, quod absit, natum de virgine Maria tota confiteretur
+        Ecclesia, quae imitans eius matrem cotidie parit membra eius, et virgo est. Lege, si placet,
+        de virginitate sanctae Mariae meas litteras ad illustrem virum, quem cum honore ac
+        dilectione nomino, Volusianum. </p>
+            </div>
+            <div xml:id="augen-d1e121-Dd1e123">
+               <head xml:id="augen-d1e121-Hd1e125">Caput 35</head>
+               <p xml:id="augen-d1e121-d1e128"> Proinde Christus Iesus, Dei Filius, est et Deus et homo: Deus ante omnia saecula, homo in
+        nostro saeculo: Deus quia Dei Verbum; Deus enim erat Verbum; homo autem quia in unitatem
+        personae accessit Verbo, anima rationalis et caro. Quocirca in quantum Deus est, ipse et
+        Pater unum sunt : in quantum autem homo est, Pater maior est illo. Cum enim esset
+        unicus Dei Filius non gratia sed natura, ut esset etiam plenus gratia, factus est et
+        hominis filius; idem ipse utrumque, ex utroque unus Christus, quia, cum in forma Dei esset,
+        non rapinam arbitratus est quod natura erat, id est esse aequalis Deo. Exinanivit autem se,
+        accipiens formam servi, non amittens vel minuens formam Dei. Ac per hoc et minor factus
+        est et mansit aequalis, utrumque unus, sicut dictum est. Sed aliud est propter Verbum, aliud
+        propter hominem: propter Verbum aequalis, propter hominem minor; unus Dei Filius, idemque
+        hominis filius, unus hominis filius, idemque Dei Filius, non duo filii Dei, Deus et homo,
+        sed unus Dei Filius; Deus sine initio, homo a certo initio, Dominus noster Iesus Christus.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

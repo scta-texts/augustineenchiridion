@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>9</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>9</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e113">
+            <head xml:id="augen-d1e113-Hd1e102">9</head>
+            <div xml:id="augen-d1e113-Dd1e105">
+               <head xml:id="augen-d1e113-Hd1e107">Caput 28</head>
+               <p xml:id="augen-d1e113-d1e110"> Angelis igitur aliquibus impia superbia deserentibus Deum, et in huius aeris imam
+        caliginem de superna caelesti habitatione deiectis, residuus numerus angelorum in aeterna
+        cum Deo beatitudine et sanctitate permansit. Neque enim ex uno angelo lapso atque damnato
+        ceteri propagati sunt, ut eos sicut homines originale malum obnoxiae successionis vinculis
+        obligaret atque universos traheret ad debitas poenas, sed eo qui diabolus factus est cum
+        sociis impietatis elato et ipsa cum eis elatione prostrato, ceteri pia obedientia Domino
+        cohaeserunt, accipientes etiam, quod illi non habuerunt, certam scientiam qua essent de sua
+        sempiterna et numquam casura stabilitate securi. </p>
+            </div>
+            <div xml:id="augen-d1e113-Dd1e114">
+               <head xml:id="augen-d1e113-Hd1e116">Caput 29</head>
+               <p xml:id="augen-d1e113-d1e119"> Placuit itaque universitatis Creatori atque moderatori Deo ut quoniam non tota multitudo
+        angelorum Deum deserendo perierat, ea quae perierat in perpetua perditione remaneret; quae
+        autem cum Deo illa deserente perstiterat de sua certissime cognita semper futura felicitate
+        gauderet; alia vero creatura rationalis, quae in hominibus erat, quoniam peccatis atque
+        suppliciis et originalibus et propriis tota perierat, ex eius parte reparata quod angelicae
+        societati ruina illa diabolica minuerat suppleretur. Hoc enim promissum est resurgentibus
+        sanctis, quod erunt aequales angelis Dei. Ita superna Hierusalem mater nostra, civitas
+        Dei, nulla civium suorum numerositate fraudabitur, aut uberiore etiam copia fortasse
+        regnabit. Neque enim numerum aut sanctorum hominum aut immundorum daemonum novimus in quorum
+        locum succedentes filii sanctae matris, quae sterilis apparebat in terris, in ea pace de
+        qua illi ceciderunt, sine ullo temporis termino permanebunt. Sed illorum civium numerus,
+        sive qui est, sive qui futurus est, in contemplatione est eius artificis, qui vocat ea quae
+        non sunt tamquam quae sint, atque in mensura et numero et pondere cuncta disponit </p>
+            </div>
+            <div xml:id="augen-d1e113-Dd1e123">
+               <head xml:id="augen-d1e113-Hd1e125">Caput 30</head>
+               <p xml:id="augen-d1e113-d1e128"> Verum haec pars generis humani cui liberationem Deus regnumque promittit aeternum, numquid
+        meritis operum suorum reparari potest? Absit! Quid enim boni operari potest perditus, nisi
+        quantum fuerit a perditione liberatus? Numquid libero voluntatis arbitrio? Et hoc absit. Nam
+        libero arbitrio male utens homo et se perdidit et ipsum. Sicut enim qui se occidit utique
+        vivendo se occidit, sed se occidendo non vivit nec se ipsum poterit resuscitare cum
+        occiderit, ita cum libero peccaretur arbitrio victore peccato amissum est et liberum
+        arbitrium. A quo enim quis devictus est, huic et servus addictus est. Petri certe
+        apostoli est ista sententia. Quae cum vera sit, qualis quaeso potest servi addicti esse
+        libertas nisi quando eum peccare delectat? Liberaliter enim servit qui sui domini voluntatem
+        libenter facit, ac per hoc ad peccandum liber est qui peccati servus est. Unde ad iuste
+        faciendum liber non erit nisi a peccato liberatus esse iustitiae coeperit servus. Ipsa est
+        vera libertas propter recte facti laetitiam, simul et pia servitus propter praecepti
+        obedientiam. Sed ad bene faciendum ista libertas unde erit homini addicto et vendito, nisi
+        redimat cuius illa vox est: Si vos Filius liberaverit tunc vere liberi eritis ? Quod
+        antequam fieri in homine incipiat, quomodo quisquam de libero arbitrio in bono gloriatur
+        opere qui nondum est liber ad operandum bene, nisi se vana superbia inflatus extollat, quam
+        cohibet Apostolus dicens: Gratia salvi facti estis per fidem ? </p>
+            </div>
+            <div xml:id="augen-d1e113-Dd1e132">
+               <head xml:id="augen-d1e113-Hd1e134">Caput 31</head>
+               <p xml:id="augen-d1e113-d1e137"> Et ne ipsam sibi saltem fidem sic arrogarent ut non intellegerent divinitus esse donatam,
+        sicut idem Apostolus alio loco dicit se ut fidelis esset misericordiam consecutum, hic
+        quoque adiunxit atque ait: Et hoc non ex vobis sed Dei donum est non ex operibus ne forte
+        quis extollatur. Et ne putarentur fidelibus bona opera defutura, rursus adiecit: Ipsius
+        enim sumus figmentum creati in Christo Iesu in operibus bonis quae praeparavit Deus ut in
+        illis ambulemus. Tunc ergo efficimur vere liberi cum Deus nos fingit, id est format et
+        creat, non ut homines, quod iam fecit, sed ut boni homines simus: quod nunc gratia sua
+        facit, ut simus in Christo Iesu nova creatura, secundum quod dictum est: Cor mundum crea
+        in me Deus. Neque enim cor eius, quantum pertinet ad naturam cordis humani, non iam
+        creaverat Deus. </p>
+            </div>
+            <div xml:id="augen-d1e113-Dd1e142">
+               <head xml:id="augen-d1e113-Hd1e144">Caput 32</head>
+               <p xml:id="augen-d1e113-d1e147"> Item ne quisquam, etsi non de operibus, de ipso glorietur libero arbitrio voluntatis,
+        tamquam ab ipso incipiat meritum cui tamquam debitum reddatur praemium bene operandi ipsa
+        libertas, audiat eundem gratiae praeconem dicentem: Deus est enim qui operatur in vobis et
+        velle et operari pro bona voluntate, et alio loco: Igitur non volentis neque currentis
+        sed miserentis est Dei. Cum procul dubio, si homo eius aetatis est ut ratione iam utatur,
+        non possit credere sperare diligere nisi velit, nec pervenire ad palmam supernae vocationis
+        Dei nisi voluntate cucurrerit, quomodo ergo non volentis neque currentis sed miserentis
+        est Dei nisi quia et ipsa voluntas, sicut scriptum est, a Domino praeparatur ? Alioquin si
+        propterea dictum est: Non volentis neque currentis sed miserentis est Dei, quia ex utroque
+        fit, id est et voluntate hominis et misericordia Dei, ut sic dictum accipiamus: Non volentis
+        neque currentis sed miserentis est Dei, tamquam diceretur: Non sufficit sola voluntas
+        hominis si non sit etiam misericordia Dei, non ergo sufficit et sola misericordia Dei si non
+        sit etiam voluntas hominis; ac per hoc, si recte dictum est: Non volentis est hominis sed
+        miserentis est Dei, quia id voluntas hominis sola non implet, cur non et e contrario recte
+        dicitur: Non miserentis est Dei sed volentis hominis, quia id misericordia Dei sola non
+        implet? Porro si nullus dicere christianus audebit: Non miserentis Dei sed volentis est
+        hominis, ne Apostolo apertissime contradicat, restat ut propterea recte dictum intellegatur:
+        Non volentis neque currentis sed miserentis est Dei, ut totum detur Deo, qui hominis
+        voluntatem bonam et praeparat adiuvandam et adiuvat praeparatam. Praecedit enim bona
+        voluntas hominis multa Dei dona sed non omnia; quae autem non praecedit ipsa, in eis est et
+        ipsa. Nam utrumque legitur in sanctis eloquiis, et: Misericordia eius praeveniet me, et:
+        Misericordia eius subsequetur me : nolentem praevenit, ut velit, volentem subsequitur, ne
+        frustra velit. Cur enim admonemur orare pro inimicis nostris  utique nolentibus pie
+        vivere, nisi ut Deus in eis operetur et velle? Itemque cur admonemur petere ut accipiamus
+       , nisi ut ab illo fiat quod volumus a quo factum est ut velimus? Oramus ergo pro inimicis
+        nostris ut misericordia Dei praeveniat eos sicut praevenit et nos: oramus autem pro nobis ut
+        misericordia eius subsequatur nos. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

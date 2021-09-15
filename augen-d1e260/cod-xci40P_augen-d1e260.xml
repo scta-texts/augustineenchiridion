@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>27</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>27</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e260">
+            <head xml:id="augen-d1e260-Hd1e102">27</head>
+            <div xml:id="augen-d1e260-Dd1e105">
+               <head xml:id="augen-d1e260-Hd1e107">Caput 103</head>
+               <p xml:id="augen-d1e260-d1e110">Ac per hoc cum audimus et in sacris Litteris legimus quod velit omnes homines salvos fieri,
+        quamvis certum sit nobis non omnes homines salvos fieri, non tamen ideo debemus omnipotentis
+        Dei voluntati aliquid derogare, sed ita intellegere quod scriptum est: Qui omnes homines
+        vult salvos fieri, tamquam diceretur nullum hominem fieri salvum nisi quem fieri ipse
+        voluerit; non quod nullus sit hominum nisi quem salvum fieri velit, sed quod nullus fiat
+        nisi quem velit, et ideo sit rogandus ut velit, quia necesse est fieri si voluerit. De
+        orando Deo quippe agebat Apostolus, ut hoc diceret. Sic enim intellegimus et quod in
+        Evangelio scriptum est: Qui illuminat omnem hominem venientem, non quia nullus est
+        hominum qui non illuminetur, sed quia nisi ab ipso nullus illuminatur. Aut certe sic dictum
+        est: Qui omnes homines vult salvos fieri, non quod nullus hominum esset quem salvum fieri
+        nollet qui virtutes miraculorum facere noluit apud eos quos dicit acturos fuisse
+        paenitentiam si fecisset, sed ut omnes homines, omne genus hominum intellegamus per
+        quascumque differentias distributos, reges privatos, nobiles ignobiles, sublimes humiles,
+        doctos indoctos, integri corporis debiles, ingeniosos tardicordes fatuos, divites pauperes
+        mediocres, mares feminas, infantes pueros adulescentes iuvenes seniores senes, in linguis
+        omnibus, in moribus omnibus, in artibus omnibus, in professionibus omnibus, in voluntatum et
+        conscientiarum varietate innumerabili constitutos, et si quid aliud differentiarum est in
+        hominibus. Quid est enim eorum unde non Deus per Unigenitum suum Dominum nostrum per omnes
+        gentes salvos homines fieri velit et ideo faciat, quia omnipotens velle inaniter non potest
+        quodcumque voluerit? Praeceperat enim Apostolus ut oraretur pro omnibus hominibus, et
+        specialiter addiderat: Pro regibus et his qui in sublimitate sunt, qui putari poterant
+        fastu potentiore et superbia saeculari a fidei christianae humilitate abhorrere. Proinde
+        dicens: Hoc enim bonum est coram salutari nostro Deo, id est ut etiam pro talibus
+        oretur, statim ut desperationem tolleret addidit: Qui omnes homines vult salvos fieri et ad
+        agnitionem veritatis venire. Hoc quippe Deus bonum iudicavit, ut orationibus humilium
+        dignaretur salutem praestare sublimium, quod utique iam videmus impletum. Isto locutionis
+        modo et Dominus est usus in Evangelio, ubi ait pharisaeis: Decimatis mentam et rutam et omne
+        holus; neque enim pharisaei et quaecumque aliena et omnium per omnes terras
+        alienigenarum omnia holera decimabant. Sicut ergo hic omne holus omne holerum genus, ita et
+        illic omnes homines omne hominum genus intellegere possumus. Et quocumque alio modo
+        intellegi potest, dum tamen credere non cogamur aliquid omnipotentem voluisse fieri,
+        factumque non esse; qui sine ullis ambiguitatibus, si in caelo et in terra, sicut eum
+        veritas cantat, omnia quaecumque voluit fecit, profecto facere noluit quodcumque non
+        fecit. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

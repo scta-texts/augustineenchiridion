@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>7</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>7</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e97">
+            <head xml:id="augen-d1e97-Hd1e102">7</head>
+            <div xml:id="augen-d1e97-Dd1e105">
+               <head xml:id="augen-d1e97-Hd1e107">Caput 20</head>
+               <p xml:id="augen-d1e97-d1e110">Nescio sane utrum eiusmodi etiam errores: cum homo de malo homine bene sentit, qualis sit
+        nesciens: aut pro eis quae per sensus corporis capimus occurrunt similia, quae spiritu
+        tamquam corpore vel corpore tanquam spiritu sentiuntur (quale putabat esse apostolus Petrus
+        quando existimabat se visum videre repente de claustris et vinculis per angelum liberatus
+        ); aut in ipsis rebus corporeis lene putatur esse quod asperum est, aut dulce quod amarum
+        est, aut bene olere quod putidum est, aut tonare cum rheda transit, aut illum esse hominem
+        cum sit alius quando duo simillimi sunt quod in geminis saepe contigit; unde ait ille:
+        Gratusque parentibus error : et cetera talia etiam peccata dicenda sint. Nec quaestio
+        nodosissima, quae homines acutissimos Academicos torsit, nunc mihi enodanda suscepta est,
+        utrum aliquid debeat sapiens approbare, ne incidat in errorem si pro veris approbaverit
+        falsa, cum omnia, sicut affirmant, vel occulta sint vel incerta. Unde tria confeci volumina
+        initio conversionis meae ne impedimento nobis essent quae tamquam in ostio contradicebant:
+        et utique fuerat removenda inveniendae desperatio veritatis quae illorum videtur
+        argumentationibus roborari. Apud illos ergo error omnis putatur esse peccatum, quod vitari
+        non posse contendunt nisi omnis suspendatur assensio. Errare quippe dicunt eum quisquis
+        assentitur incertis: nihilque certi esse in hominum visis propter indiscretam similitudinem
+        falsi, etiam si quod videtur forte sit verum, acutissimis quidem sed impudentissimis
+        conflictibus disputant. Apud nos autem iustus ex fide vivit. At si tollatur assensio
+        fides tollitur, quia sine assensione nihil creditur. Et sunt vera quamvis non videantur,
+        quae nisi credantur, ad vitam beatam quae non nisi aeterna est, non potest perveniri. Cum
+        istis vero utrum loqui debeamus ignoro, qui non solum victuros in aeternum sed in praesentia
+        se vivere nesciunt: immo nescire se dicunt, quod nescire non possunt. Neque enim quisquam
+        sinitur nescire se vivere, quandoquidem si non vivit non potest aliquid vel nescire: quoniam
+        non solum scire, verum etiam nescire, viventis est. Sed videlicet non assentiendo quod
+        vivant, cavere sibi videntur errorem, cum etiam errando convincantur vivere: quoniam non
+        potest qui non vivit errare. Sicut ergo nos vivere non solum verum sed etiam certum est, ita
+        vera et certa sunt multa, quibus non assentiri absit ut sapientia potius quam dementia
+        nominanda sit.</p>
+            </div>
+            <div xml:id="augen-d1e97-Dd1e114">
+               <head xml:id="augen-d1e97-Hd1e116">Caput 21</head>
+               <p xml:id="augen-d1e97-d1e119"> In quibus autem rebus nihil interest ad capessendum Dei regnum utrum credantur an non, vel
+        utrum vera sive sint sive putentur, an falsa, in his errare, id est aliud pro alio putare,
+        non arbitrandum est esse peccatum, aut si est, minimum esse atque levissimum. Postremo,
+        qualecumque illud et quantumcumque sit, ad illam viam non pertinet qua imus ad Deum, quae
+        via fides est Christi quae per dilectionem operatur. Neque enim ab hac via deviabat in
+        geminis filiis gratus ille parentibus error; aut ab hac via deviabat apostolus Petrus quando
+        se existimans visum videre aliud pro alio sic putabat, ut a corporum imaginibus in quibus se
+        esse arbitrabatur, vera in quibus erat corpora non dignosceret nisi cum ab illo angelus per
+        quem fuerat liberatus abscessit, aut ab hac via deviabat Iacob patriarcha quando viventem
+        filium a bestia credebat occisum. In his atque huiusmodi falsitatibus salva fide quae in
+        Deum nobis est fallimur, et via non relicta quae ad illum ducit erramus. Qui errores, etiam
+        si peccata non sunt, tamen in malis huius vitae deputandi sunt, quae ita subiecta est
+        vanitati  ut approbentur hic falsa pro veris, respuantur vera pro falsis, teneantur
+        incerta pro certis. Quamvis enim haec ab ea fide absint per quam veram certamque ad aeternam
+        beatitudinem tendimus, ab ea tamen miseria non absunt in qua adhuc sumus, nullo modo quippe
+        falleremur in aliquo vel animi vel corporis sensu, si iam vera illa atque perfecta
+        felicitate frueremur. </p>
+            </div>
+            <div xml:id="augen-d1e97-Dd1e123">
+               <head xml:id="augen-d1e97-Hd1e125">Caput 22</head>
+               <p xml:id="augen-d1e97-d1e128">Porro autem omne mendacium ideo dicendum est esse peccatum quia homo, non solum quando scit
+        ipse quid verum sit sed etiam si quando errat et fallitur sicut homo, hoc debet loqui quod
+        animo gerit, sive illud verum sit sive putetur et non sit. Omnis autem qui mentitur, contra
+        id quod animo sentit loquitur, voluntate fallendi. Et utique verba propterea sunt instituta
+        non per quae se homines invicem fallant sed per quae in alterius quisque notitiam
+        cogitationes suas perferat. Verbis ergo uti ad fallaciam, non ad quod instituta sunt,
+        peccatum est. Nec ideo ullum mendacium putandum est non esse peccatum quia possumus
+        aliquando alicui prodesse mentiendo. Possumus enim et furando, si pauper cui palam datur
+        sentit commodum, et dives cui clam tollitur non sentit incommodum: nec ideo tale furtum
+        quisquam dixerit non esse peccatum. Possumus et adulterando, si aliqua nisi ad hoc ei
+        consentiatur apparet amando moritura, et si vixerit paenitendo purganda: nec ideo peccatum
+        negabitur tale adulterium. Si autem merito nobis placet castitas, quid offendit veritas ut
+        propter alienam utilitatem illa non violetur adulterando et violetur ista mentiendo?
+        Plurimum quidem ad bonum profecisse homines qui non nisi pro salute hominis mentiuntur, non
+        est negandum; sed in eorum tali profectu merito laudatur, vel etiam temporaliter
+        remuneratur, benevolentia non fallacia; quae ut ignoscatur sat est, non ut etiam
+        praedicetur, maxime in heredibus Testamenti Novi, quibus dicitur: Sit in ore vestro: Est
+        est; Non non: quod enim amplius est a malo est. Propter quod malum, quia subrepere in hac
+        mortalitate non desinit, etiam ipsi coheredes Christi  dicunt: Dimitte nobis debita nostra
+       . </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

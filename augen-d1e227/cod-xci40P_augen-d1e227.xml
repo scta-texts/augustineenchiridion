@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>23</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>23</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e227">
+            <head xml:id="augen-d1e227-Hd1e102">23</head>
+            <div xml:id="augen-d1e227-Dd1e105">
+               <head xml:id="augen-d1e227-Hd1e107">Caput 84</head>
+               <p xml:id="augen-d1e227-d1e110"> Iam vero de resurrectione carnis, non sicut quidam revixerunt iterumque sunt mortui, sed
+        in aeternam vitam sicut Christi ipsius caro resurrexit, quemadmodum possim breviter
+        disputare, et omnibus quaestionibus quae de hac re moveri assolent satisfacere, non invenio.
+        Resurrecturam tamen carnem omnium quicumque nati sunt hominum atque nascentur, et mortui
+        sunt atque morientur, nullo modo dubitare debet christianus. </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e114">
+               <head xml:id="augen-d1e227-Hd1e116">Caput 85</head>
+               <p xml:id="augen-d1e227-d1e119"> Unde primo occurrit de abortivis foetibus quaestio, qui iam quidem nati sunt in uteris
+        matrum, sed nondum ita ut iam possint renasci. Si enim resurrecturos eos dixerimus, de his
+        qui iam formati sunt tolerari potest utcumque quod dicitur. Informes vero abortus quis non
+        proclivius perire arbitretur sicut semina quae concepta non fuerint? Sed quis negare audeat,
+        etsi affirmare non audeat, id acturam resurrectionem ut quidquid formae defuit impleatur,
+        atque ita non desit perfectio quae accessura erat tempore, quemadmodum non erunt vitia quae
+        accesserant tempore, ut neque in eo quod aptum et congruum dies allaturi fuerant natura
+        fraudetur, neque in eo quod adversum atque contrarium dies attulerant natura turpetur, sed
+        integretur quod nondum erat integrum, sicut instaurabitur quod fuerat vitiatum? </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e123">
+               <head xml:id="augen-d1e227-Hd1e125">Caput 86</head>
+               <p xml:id="augen-d1e227-d1e128"> Ac per hoc scrupulosissime quidem inter doctissimos quaeri ac disputari potest, quod utrum
+        ab homine inveniri possit ignoro, quando incipiat in utero homo vivere, utrum sit quaedam
+        vita et occulta quae nondum motibus viventis appareat. Nam negare vixisse puerperia quae
+        propterea membratim exsecantur et eiciuntur ex uteris praegnantium ne matres quoque, si
+        mortua ibi relinquantur, occidant, impudentia nimia videtur. Ex quo autem incipit homo
+        vivere, ex illo utique iam mori potest: mortuus vero, ubicumque illi mors potuit evenire,
+        quomodo ad resurrectionem non pertineat mortuorum reperire non possum. </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e132">
+               <head xml:id="augen-d1e227-Hd1e134">Caput 87</head>
+               <p xml:id="augen-d1e227-d1e137"> Neque enim et monstra quae nascuntur et vivunt, quamlibet cito moriantur, aut resurrectura
+        negabuntur aut ita resurrectura credenda sunt, ac non potius correcta emendataque natura.
+        Absit enim ut illum bimembrem qui nuper natus est in oriente, de quo et fratres fidelissimi
+        quod eum viderint rettulerunt, et sanctae memoriae Hieronymus presbyter scriptum reliquit:
+        absit, inquam, ut unum hominem duplicem ac non potius duos, quod futurum fuerat si gemini
+        nascerentur, resurrecturos aestimemus; ita et cetera quae singuli quique partus, vel amplius
+        vel minus aliquid habendo, vel quadam nimia deformitate, monstra dicuntur, ad humanae
+        naturae figuram resurrectione revocabuntur; ita ut singulae animae singula sua corpora
+        obtineant, nullis cohaerentibus etiam quaecumque cohaerentia nata fuerant, sed seorsum sibi
+        singulis sua membra gestantibus quibus humani corporis impletur integritas. </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e142">
+               <head xml:id="augen-d1e227-Hd1e144">Caput 88</head>
+               <p xml:id="augen-d1e227-d1e147"> Non autem perit Deo terrena materies de qua mortalium creatur caro; sed in quemlibet
+        pulverem cineremve solvatur, in quoslibet halitus aurasque diffugiat, in quamcumque aliorum
+        corporum substantiam vel in ipsa elementa vertatur, in quorumcumque animalium etiam hominum
+        cibum cedat carnemque mutetur, illi animae humanae puncto temporis redit quae illam
+        primitus, ut homo fieret cresceret viveret, animavit. </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e151">
+               <head xml:id="augen-d1e227-Hd1e153">Caput 89</head>
+               <p xml:id="augen-d1e227-d1e156"> Ipsa igitur terrena materies quae discedente anima fit cadaver, non ita resurrectione
+        reparabitur ut ea quae dilabuntur et in alias atque alias aliarum rerum species formasque
+        vertuntur, quamvis ad corpus redeant unde dilapsa sunt, ad easdem quoque corporis partes ubi
+        fuerunt redire necesse sit. Alioquin si capillis redit quod tam crebra tonsura detraxit, si
+        unguibus quod totiens dempsit exsectio, immoderata et indecens cogitantibus, et ideo
+        resurrectionem carnis non credentibus, occurrit informitas. Sed quemadmodum si statua
+        cuiuslibet solubilis metalli aut igne liquesceret aut contereretur in pulverem aut
+        confunderetur in massam, et eam vellet artifex rursus ex illius materiae quantitate
+        reparare, nihil interesset ad eius integritatem quae particula materiae cui membro statuae
+        redderetur dum tamen totum ex quo constituta fuerat restituta resumeret, ita Deus,
+        mirabiliter atque ineffabiliter artifex, de toto quo caro nostra constiterat, eam mirabili
+        et ineffabili celeritate restituet. Nec aliquid attinebit ad eius redintegrationem utrum
+        capilli ad capillos redeant et ungues ad ungues, an quidquid eorum perierat mutetur in
+        carnem et in partes alias corporis revocetur, curante artificis providentia ne quid indecens
+        fiat. </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e160">
+               <head xml:id="augen-d1e227-Hd1e162">Caput 90</head>
+               <p xml:id="augen-d1e227-d1e165"> Nec illud est consequens, ut ideo diversa sit statura reviviscentium singulorum quia
+        fuerat diversa viventium, aut macri cum eadem macie aut pingues cum eadem pinguedine,
+        reviviscant. Sed si hoc est in consilio Creatoris, ut in effigie sua cuiusque proprietas et
+        discernibilis similitudo servetur, in ceteris autem corporis bonis aequalia cuncta
+        reddantur, ita modificabitur illa in unoquoque materies ut nec aliquid ex ea pereat, et quod
+        alicui defuerit ille suppleat qui etiam de nihilo potuit quod voluit operari. Si autem in
+        corporibus resurgentium rationabilis inaequalitas erit, sicut est vocum quibus cantus
+        impletur, hoc fiet cuique de materie corporis sui quod et hominem reddat angelicis coetibus
+         et nihil inconveniens eorum ingerat sensibus. Indecorum quippe aliquid ibi non erit: sed
+        quidquid futurum est, hoc decebit, quia nec futurum est si non decebit. </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e169">
+               <head xml:id="augen-d1e227-Hd1e171">Caput 91</head>
+               <p xml:id="augen-d1e227-d1e174"> Resurgent igitur sanctorum corpora sine ullo vitio, sine ulla deformitate, sine ulla
+        corruptione, onere, difficultate, in quibus tanta facilitas quanta felicitas erit. Propter
+        quod et spiritalia dicta sunt, cum procul dubio corpora sint futura, non spiritus. Sed sicut
+        nunc corpus animale dicitur, quod tamen corpus non anima est, ita tunc spiritale corpus
+        erit, corpus tamen non spiritus erit. Proinde quantum attinet ad corruptionem quae nunc
+        aggravat animam, et vitia quibus caro adversus spiritum concupiscit,  tunc non erit
+        caro sed corpus, quia et caelestia corpora perhibentur. Propter quod dictum est: Caro et
+        sanguis regnum Dei non possidebunt, et tamquam exponens quid dixerit: Neque corruptio,
+        inquit, incorruptionem possidebit. Quod prius dixit caro et sanguis, hoc posterius dixit
+        corruptio, et quod prius regnum Dei hoc posterius incorruptionem. Quantum autem attinet ad
+        substantiam, etiam tunc caro erit; propter quod et post resurrectionem corpus Christi caro
+        appellata est. Sed ideo ait Apostolus: Seminatur corpus animale resurget corpus
+        spiritale, quoniam tanta erit tunc concordia carnis et spiritus, vivificante spiritu
+        sine sustentaculi alicuius indigentia subditam carnem, ut nihil nobis repugnet ex nobis, sed
+        sicut foris neminem, ita nec intus nos ipsos patiamur inimicos. </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e178">
+               <head xml:id="augen-d1e227-Hd1e180">Caput 92</head>
+               <p xml:id="augen-d1e227-d1e183"> Quicumque vero ab illa perditionis massa, quae facta est per hominem primum, non
+        liberantur per unum Mediatorem Dei et hominum, resurgent quidem etiam ipsi, unusquisque
+        cum sua carne, sed ut cum diabolo et eius angelis puniantur. Utrum sane ipsi cum vitiis
+        et deformitatibus suorum corporum resurgant, quaecumque in eis vitiosa et deformia membra
+        gestarunt, in requirendo laborare quid opus est? Neque enim fatigare nos debet incerta eorum
+        habitudo vel pulchritudo, quorum erit certa et sempiterna damnatio. Nec moveat quomodo erit
+        in eis corpus incorruptibile si dolere poterit, aut quomodo corruptibile si mori non
+        poterit. Non enim est vera vita nisi ubi feliciter vivitur, nec vera incorruptio nisi ubi
+        salus nullo dolore corrumpitur. Ubi autem infelix mori non sinitur, ut ita dicam, mors ipsa
+        non moritur; et ubi dolor perpetuus non interimit sed affligit, ipsa corruptio non finitur.
+        Haec in sanctis Scripturis secunda mors  dicitur. </p>
+            </div>
+            <div xml:id="augen-d1e227-Dd1e187">
+               <head xml:id="augen-d1e227-Hd1e189">Caput 93</head>
+               <p xml:id="augen-d1e227-d1e192"> Nec prima tamen, qua suum corpus anima relinquere cogitur, nec secunda, qua poenale corpus
+        anima relinquere non permittitur, homini accidisset si nemo peccasset. Mitissima sane omnium
+        poena erit eorum qui praeter peccatum quod originale traxerunt, nullum insuper addiderunt,
+        et in ceteris qui addiderunt, tanto quisque ibi tolerabiliorem habebit damnationem quanto
+        hic minorem habuit iniquitatem. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

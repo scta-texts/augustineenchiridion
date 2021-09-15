@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>15</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>15</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e162">
+            <head xml:id="augen-d1e162-Hd1e102">15</head>
+            <div xml:id="augen-d1e162-Dd1e105">
+               <head xml:id="augen-d1e162-Hd1e107">Caput 56</head>
+               <p xml:id="augen-d1e162-d1e110"> Cum autem de Iesu Christo Filio Dei unico Domino nostro, quod ad brevitatem Confessionis
+        pertinet, dixerimus, adiungimus ut scis credere nos et in Spiritum Sanctum, ut illa Trinitas
+        compleatur quae Deus est. Deinde sancta commemoratur Ecclesia, unde datur intellegi
+        rationalem creaturam ad Hierusalem liberam pertinentem  post commemorationem Creatoris,
+        id est summae illius Trinitatis, fuisse subdendam quoniam quidquid de homine Christo dictum
+        est, ad unitatem personae Unigeniti pertinet. Rectus itaque confessionis ordo poscebat ut
+        Trinitati subiungeretur Ecclesia, tamquam habitatori domus sua et Deo templum suum et
+        conditori civitas sua. Quae tota hic accipienda est, non solum ex parte qua peregrinatur in
+        terris, a solis ortu ad occasum laudans nomen Domini, et post captivitatem vetustatis
+        cantans canticum novum; verum etiam ex illa quae in caelis semper ex quo condita est
+        cohaesit Deo, nec ullum malum sui casus experta est. Haec in sanctis angelis beata
+        persistit, et suae parti peregrinanti sicut oportet opitulatur, quia utraque una erit
+        consortio aeternitatis, et nunc una est vinculo caritatis, quae tota instituta est ad
+        colendum unum Deum. Unde nec tota nec ulla pars eius vult se coli pro Deo, nec cuiquam esse
+        Deus pertinenti ad templum Dei quod aedificatur ex diis quos facit non factus Deus. Ac
+        per hoc Spiritus Sanctus, si creatura non creator esset, profecto creatura rationalis esset;
+        ipsa est enim summa creatura. Et ideo in Regula fidei non poneretur ante Ecclesiam quia et
+        ipse ad Ecclesiam pertineret in illa eius parte quae in caelis est, nec haberet templum sed
+        etiam ipse templum esset. Templum autem habet, de quo dicit Apostolus: Nescitis quia corpora
+        vestra templum in vobis est Spiritus Sancti, quem habetis a Deo? De quibus alio loco
+        dicit: Nescitis quia corpora vestra membra sunt Christi?  Quomodo ergo Deus non est, qui
+        templum habet, aut minor Christo est, cuius membra templum habet? Neque enim aliud templum
+        eius, aliud templum Dei est, cum idem dicit Apostolus: Nescitis quia templum Dei estis? Quod
+        ut probaret, adiecit: Et Spiritus Dei habitat in vobis?  Deus ergo habitat in templo suo,
+        non solum Spiritus Sanctus, sed etiam Pater, et Filius; qui etiam de corpore suo per quod
+        factus est caput Ecclesiae quae in hominibus est, ut sit in omnibus ipse primatum tenens
+       , ait: Solvite templum hoc, et in triduo suscitabo illud. Templum enim Dei, hoc est
+        totius summae Trinitatis, sancta est Ecclesia, scilicet universa in caelo et in terra. </p>
+            </div>
+            <div xml:id="augen-d1e162-Dd1e114">
+               <head xml:id="augen-d1e162-Hd1e116">Caput 57</head>
+               <p xml:id="augen-d1e162-d1e119">.. Sed de illa quae in caelo est affirmare quid possumus nisi quod nullus in eo malus
+        est, nec quisquam deinceps inde cecidit aut casurus est, ex quo Deus angelis peccantibus non
+        pepercit, sicut scribit apostolus Petrus, sed carceribus caliginis inferi retrudens tradidit
+        in iudicio puniendos servari ? </p>
+            </div>
+            <div xml:id="augen-d1e162-Dd1e123">
+               <head xml:id="augen-d1e162-Hd1e125">Caput 58</head>
+               <p xml:id="augen-d1e162-d1e128">Quomodo autem se habeat beatissima illa et superna societas, quae ibi sint
+        differentiae praepositurarum, ut cum omnes tamquam generali nomine angeli nuncupentur, sicut
+        in Epistula ad Hebraeos legimus: Cui enim angelorum dixit aliquando: Sede a dextris meis?
+         - hoc quippe modo significavit omnes universaliter Angelos dici -, sint illic tamen
+        Archangeli; et utrum iidem Archangeli appellentur Virtutes, atque ita dictum sit: Laudate
+        eum omnes Angeli eius, laudate eum omnes Virtutes eius, ac si diceretur: Laudate eum
+        omnes Angeli, laudate eum omnes Archangeli; et quid inter se distent quattuor illa vocabula
+        quibus universam ipsam caelestem societatem videtur Apostolus esse complexus dicendo: Sive
+        Sedes, sive Dominationes, sive Principatus, sive Potestates, dicant qui possunt, si
+        tamen possunt probare quod dicunt: Ego me ista ignorare confiteor. Sed ne illud quidem
+        certum habeo, utrum ad eamdem societatem pertineant sol et luna et cuncta sidera quamvis
+        nonnullis lucida esse corpora non cum sensu vel intellegentia videantur. </p>
+            </div>
+            <div xml:id="augen-d1e162-Dd1e132">
+               <head xml:id="augen-d1e162-Hd1e134">Caput 59</head>
+               <p xml:id="augen-d1e162-d1e137">Itemque angeli quis explicet cum qualibus corporibus apparuerint hominibus, ut non
+        solum cernerentur verum etiam tangerentur; et rursus non solida corpulentia sed spiritali
+        potentia quasdam visiones non oculis corporeis sed spiritalibus vel mentibus ingerant, vel
+        dicant aliquid non ad aurem forinsecus sed intus animae hominis, etiam ipsi ibidem
+        constituti, sicut scriptum est in Prophetarum libro: Et dixit mihi angelus qui loquebatur in
+        me; non enim ait: " Qui loquebatur ad me ", sed: in me; vel appareant et in somnis et
+        colloquantur more somniorum; habemus quippe in Evangelio: Ecce Angelus Domini apparuit illi
+        in somnis dicens. His enim modis velut indicant se angeli contrectabilia corpora non
+        habere, faciuntque difficillimam quaestionem quomodo patres eis pedes laverint, quomodo
+        Iacob cum angelo tam solida contrectatione luctatus sit. Cum ista quaeruntur, et ea
+        sicut potest quisque coniectat, non inutiliter exercentur ingenia, si adhibeatur disceptatio
+        moderata et absit error opinantium se scire quod nesciunt. Quid enim opus est ut haec atque
+        huiusmodi vel affirmentur vel negentur vel definiantur cum discrimine, quando sine crimine
+        nesciuntur? </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

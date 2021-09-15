@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>16</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>16</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e170">
+            <head xml:id="augen-d1e170-Hd1e102">16</head>
+            <div xml:id="augen-d1e170-Dd1e105">
+               <head xml:id="augen-d1e170-Hd1e107">60</head>
+               <p xml:id="augen-d1e170-d1e110">Magis opus est diiudicare atque dignoscere cum se satanas transfigurat velut angelum lucis
+       , ne fallendo ad aliqua perniciosa seducat. Nam quando sensus corporis fallit, mentem
+        vero non movet a vera rectaque sententia qua quisque vitam fidelem gerit, nullum est in
+        religione periculum; vel cum se bonum fingens ea facit sive dicit quae bonis angelis
+        congruunt, etiam si credatur bonus non est error christianae fidei perniciosus aut morbidus.
+        Cum vero per haec aliena ad sua incipit ducere tunc eum dignoscere, nec ire post eum, magna
+        et necessaria vigilantia est. Sed quotusquisque hominum idoneus est omnes mortiferos dolos
+        eius evadere, nisi regat atque tueatur Deus? Et ipsa huius rei difficultas ad hoc est
+        utilis, ne sit spes sibi quisque, aut homo alter alteri, sed Deus suis omnibus: id enim
+        nobis potius expedire prorsus piorum ambigat nemo. </p>
+            </div>
+            <div xml:id="augen-d1e170-Dd1e114">
+               <head xml:id="augen-d1e170-Hd1e116">Caput 61</head>
+               <p xml:id="augen-d1e170-d1e119"> Haec ergo quae in sanctis Angelis et Virtutibus Dei est Ecclesia, tunc nobis sicuti est
+        innotescet cum ei coniuncti fuerimus in finem ad simul habendam beatitudinem sempiternam.
+        Ista vero, quae ab illa peregrinatur in terris, eo nobis notior est quod in illa sumus, et
+        quia hominum est, quod et nos sumus. Haec sanguine Mediatoris nullum habentis peccatum ab
+        omni est redempta peccato, eiusque vox est: Si Deus pro nobis quis contra nos? qui Filio
+        proprio non pepercit, sed pro nobis omnibus tradidit eum. Non enim pro Angelis mortuus
+        est Christus. Sed ideo etiam pro Angelis fit quidquid hominum per eius mortem redimitur et
+        liberatur a malo, quoniam cum eis quodammodo redit in gratiam post inimicitias quas inter
+        homines et sanctos Angelos peccata fecerunt, et ex ipsa hominum redemptione ruinae illius
+        angelicae detrimenta reparantur. </p>
+            </div>
+            <div xml:id="augen-d1e170-Dd1e123">
+               <head xml:id="augen-d1e170-Hd1e125">Caput 62</head>
+               <p xml:id="augen-d1e170-d1e128"> Et utique noverunt Angeli sancti, docti de Deo cuius veritatis aeterna contemplatione
+        beati sunt, quanti numeri supplementum de genere humano integritas illius civitatis
+        exspectat. Propter hoc ait Apostolus instaurari omnia in Christo quae in caelis sunt et quae
+        in terris in ipso. Instaurantur quippe quae in caelis sunt, cum id quod inde in Angelis
+        lapsum est ex hominibus redditur; instaurantur autem quae in terris sunt, cum ipsi homines
+        qui praedestinati sunt in aeternam vitam a corruptionis vetustate renovantur. Ac sic per
+        illud singulare sacrificium in quo Mediator est immolatus, quod unum multae in lege victimae
+        figurabant, pacificantur caelestia cum terrestribus et terrestria cum caelestibus. Quoniam,
+        sicut idem Apostolus dicit: In ipso complacuit omnem plenitudinem inhabitare, et per eum
+        reconciliari omnia in ipsum, pacificans per sanguinem crucis eius, sive quae in terris sunt,
+        sive quae in caelis. </p>
+            </div>
+            <div xml:id="augen-d1e170-Dd1e132">
+               <head xml:id="augen-d1e170-Hd1e134">Caput 63</head>
+               <p xml:id="augen-d1e170-d1e137"> Pax ista praecellit, sicut scriptum est, omnem intellectum, neque sciri a nobis nisi
+        cum ad eam venerimus potest. Quomodo enim pacificantur caelestia nisi nobis, id est,
+        concordando nobiscum? Nam ibi semper est pax, et inter se universis intellectualibus
+        creaturis et cum suo Creatore. Quae pax praecellit, ut dictum est, omnem intellectum, sed
+        utique nostrum, non eorum qui semper vident faciem Patris. Nos autem, quantuscumque sit
+        in nobis intellectus humanus, ex parte scimus, et videmus nunc per speculum in aenigmate
+       . Cum vero aequales Angelis Dei fuerimus, tunc quemadmodum et ipsi videbimus facie ad
+        faciem, tantamque pacem habebimus erga eos quantum et ipsi erga nos, quia tantum eos
+        dilecturi sumus quantum ab eis diligimur. Itaque pax eorum nota nobis erit, quia et nostra
+        tanta ac talis erit, nec praecellet tunc intellectum nostrum; Dei vero pax, quae illic est
+        erga nos, et nostrum et illorum intellectum sine dubitatione praecellet. De ipso quippe
+        beata est rationalis creatura quaecumque beata est, non ipse de illa. Unde secundum hoc
+        melius accipitur quod scriptum est: Pax Dei quae praecellit omnem intellectum, ut in eo quod
+        dixit omnem nec ipse intellectus sanctorum Angelorum esse possit exceptus, sed Dei solius,
+        neque enim et ipsius intellectum pax eius praecellit. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

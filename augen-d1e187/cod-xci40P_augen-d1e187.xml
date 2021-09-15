@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>18</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>18</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e187">
+            <head xml:id="augen-d1e187-Hd1e102">18</head>
+            <div xml:id="augen-d1e187-Dd1e105">
+               <head xml:id="augen-d1e187-Hd1e107">Caput 67</head>
+               <p xml:id="augen-d1e187-d1e110">Creduntur a quibusdam etiam hi qui nomen Christi non relinquunt, et eius lavacro in
+        Ecclesia baptizantur, nec ab ea ullo schismate vel haeresi praeciduntur, in quantislibet
+        sceleribus vivant, quae nec diluant paenitendo nec eleemosynis redimant, sed in eis usque ad
+        huius vitae ultimum diem pertinacissime perseverent, salvi futuri per ignem, licet pro
+        magnitudine facinorum flagitiorumque diuturno non tamen aeterno igne puniti. Sed qui hoc
+        credunt, et tamen catholici sunt, humana quadam benevolentia mihi falli videntur. Nam
+        Scriptura divina aliud consulta respondet. Librum autem de hac quaestione conscripsi, cuius
+        titulus est: De fide et operibus, ubi secundum Scripturas sanctas, quantum adiuvante Deo
+        potui, demonstravi eam fidem salvos facere quam satis evidenter expressit Paulus apostolus
+        dicens: In Christo enim Iesu neque circumcisio quidquam valet neque praeputium sed fides
+        quae per dilectionem operatur. Si autem male non bene operatur, procul dubio, secundum
+        apostolum Iacobum, mortua est in semetipsa, qui rursus ait: Si fidem dicat se quis
+        habere opera autem non habeat numquid poterit fides salvare eum?  Porro autem si homo
+        sceleratus propter solam fidem per ignem salvabitur, et sic est accipiendum quod ait beatus
+        Paulus: Ipse autem salvus erit sic tamen quasi per ignem, poterit ergo salvare sine
+        operibus fides, et falsum erit quod dixit eius coapostolus Iacobus. Falsum erit et illud
+        quod idem ipse Paulus ait: Nolite, inquit, errare; neque fornicatores neque idolis
+        servientes neque adulteri neque molles neque masculorum concubitores neque fures neque avari
+        neque ebriosi neque maledici neque rapaces regnum Dei possidebunt. Si enim in istis
+        perseverantes criminibus, tamen propter fidem Christi salvi erunt, quomodo in regno Dei non
+        erunt? </p>
+            </div>
+            <div xml:id="augen-d1e187-Dd1e114">
+               <head xml:id="augen-d1e187-Hd1e116">Caput 68</head>
+               <p xml:id="augen-d1e187-d1e119"> Sed quia haec apostolica manifestissima et apertissima testimonia falsa esse non possunt,
+        illud quod obscure dictum est de his qui superaedificant, super fundamentum quod est
+        Christus, non aurum argentum lapides pretiosos, sed ligna faenum stipulam  (de his enim
+        dictum est quod per ignem salvi erunt, quoniam fundamenti merito non peribunt), sic est
+        intellegendum ut his manifestis non inveniatur esse contrarium. Ligna quippe et faenum et
+        stipula non absurde accipi possunt rerum saecularium, quamvis licite concessarum, tales
+        cupiditates ut amitti sine animi dolore non possint. Cum autem iste dolor urit, si Christus
+        in corde fundamenti habet locum, id est ut ei nihil anteponatur, et malit homo qui tali
+        dolore uritur rebus quas ita diligit magis carere quam Christo, per ignem fit salvus. Si
+        autem res huiusmodi temporales ac saeculares tempore temptationis maluerit tenere quam
+        Christum, eum in fundamento non habuit quia haec priore loco habuit, cum in aedificio prius
+        non sit aliquid fundamento. Ignis enim de quo eo loco est locutus Apostolus, talis debet
+        intellegi ut ambo per eum transeant, id est, et qui aedificat super hoc fundamentum aurum
+        argentum lapides pretiosos, et qui aedificat lignum faenum stipulam. Cum enim hoc dixisset,
+        adiunxit: Uniuscuiusque opus quale sit, ignis probabit; si cuius opus permanserit quod
+        superaedificavit, mercedem accipiet; si cuius autem opus exustum fuerit, damnum patietur:
+        ipse autem salvus erit, sic tamen quasi per ignem. Non ergo unius eorum sed utriusque
+        opus ignis probabit. Est quidam ignis temptatio tribulationis, de quo aperte alio loco
+        scriptum est: Vasa figuli probat fornax, et homines iustos temptatio tribulationis. Iste
+        ignis in hac interim vita facit quod Apostolus dixit, si accidat duobus fidelibus, uni
+        scilicet cogitanti quae Dei sunt, quomodo placeat Deo, hoc est aedificanti supra Christum
+        fundamentum aurum argentum lapides pretiosos; alteri autem cogitanti ea quae sunt mundi,
+        quomodo placeat uxori, id est aedificanti super idem fundamentum ligna faenum stipulam.
+        Illius enim opus non exuritur, quia non ea dilexit quorum amissione crucietur. Exuritur
+        autem huius, quoniam sine dolore non pereunt quae cum amore possessa sunt; sed quoniam
+        alterutra condicione proposita eis potius mallet carere quam Christo, nec timore amittendi
+        talia deserit Christum, quamvis doleat cum amittit, salvus est quidem, sic tamen quasi per
+        ignem, quia urit eum dolor rerum quas dilexerat amissarum, sed non subvertit neque consumit,
+        fundamenti stabilitate atque incorruptione munitum. </p>
+            </div>
+            <div xml:id="augen-d1e187-Dd1e123">
+               <head xml:id="augen-d1e187-Hd1e125">Caput 69</head>
+               <p xml:id="augen-d1e187-d1e128"> Tale aliquid etiam post hanc vitam fieri incredibile non est, et utrum ita sit quaeri
+        potest, et aut inveniri aut latere, nonnullos fideles per ignem quemdam purgatorium, quanto
+        magis minusve bona pereuntia dilexerunt, tanto tardius citiusque salvari; non tamen tales de
+        quibus dictum est quod regnum Dei non possidebunt, nisi convenienter paenitentibus eadem
+        crimina remittantur. Convenienter autem dixi, ut steriles in eleemosynis non sint, quibus
+        tantum tribuit Scriptura divina ut earum tantummodo fructum se imputaturum pronuntiet
+        Dominus dextris, et earum tantummodo sterilitatem sinistris, quando his dicturus est:
+        Venite, benedicti Patris mei, percipite regnum; illis autem: Ite in ignem aeternum.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

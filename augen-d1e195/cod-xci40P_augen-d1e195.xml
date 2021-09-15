@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>19</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>19</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0"
+                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e195">
+            <head>19</head>
+            <div>
+               <head>Caput 70</head>
+               <p> Sane cavendum est ne quisquam existimet infanda illa crimina, qualia qui agunt regnum Dei
+        non possidebunt cotidie perpetranda et eleemosynis cotidie redimenda. In melius est quippe
+        vita mutanda, et per eleemosynas de peccatis praeteritis est propitiandus Deus, non ad hoc
+        emendus quodammodo ut ea semper liceat impune committere. Nemini enim dedit laxamentum
+        peccandi, quamvis miserando deleat iam facta peccata, si non satisfactio congrua
+        negligatur. </p>
+            </div>
+            <div>
+               <head>Caput 71</head>
+               <p> De quotidianis autem brevibus levibusque peccatis sine quibus haec vita non ducitur,
+        cotidiana oratio fidelium satis facit. Eorum est enim dicere: Pater noster qui es in caelis
+       , qui iam Patre tali regenerati sunt ex aqua et Spiritu Sancto. Delet omnino haec
+        oratio minima et quotidiana peccata. Delet et illa a quibus vita fidelium etiam scelerate
+        gesta sed paenitendo in melius mutata discedit si, quemadmodum veraciter dicitur: Dimitte
+        nobis debita nostra, quoniam non desunt quae dimittantur; ita veraciter dicatur: Sicut et
+        nos dimittimus debitoribus nostris, id est, fiat quod dicitur: quia et ipsa eleemosyna
+        est veniam homini petenti ignoscere. </p>
+            </div>
+            <div>
+               <head>Caput 72</head>
+               <p> Ac per hoc ad omnia quae utili misericordia fiunt valet quod Dominus ait: Date
+        eleemosynam, et ecce omnia munda sunt vobis. Non solum ergo qui dat esurienti cibum,
+        sitienti potum, nudo vestimentum, peregrinanti hospitium, fugienti latibulum, aegro vel
+        incluso visitationem, captivo redemptionem, debili subvectionem, caeco deductionem, tristi
+        consolationem, non sano medelam, erranti viam, deliberanti consilium, et quod cuique
+        necessarium est indigenti, verum etiam qui dat veniam peccanti, eleemosynam dat. Et qui
+        emendat verbere in quem potestas datur, vel coercet aliqua disciplina, et tamen peccatum
+        eius quo ab illo laesus aut offensus est dimittit ex corde, vel orat ut ei dimittatur, non
+        solum in eo quod dimittit atque orat, verum etiam in eo quod corripit et aliqua emendatoria
+        poena plectit, eleemosynam dat, quia misericordiam praestat. Multa enim bona praestantur
+        invitis, quando eorum consulitur utilitati non voluntati, quia ipsi sibi inveniuntur esse
+        inimici, amici vero eorum potius illi quos inimicos putant, et reddunt errando mala pro
+        bonis, cum reddere mala christianus non debeat nec pro malis. Multa itaque genera sunt
+        eleemosynarum, quae cum facimus adiuvamur ut dimittantur nostra peccata. </p>
+            </div>
+            <div>
+               <head>Caput 73</head>
+               <p> Sed ea nihil est maius qua ex corde dimittimus quod in nos quisque peccavit. Minus enim
+        magnum est erga eum esse benignum sive etiam beneficum, qui tibi nihil mali fecerit. Illud
+        multo grandius, et magnificentissimae bonitatis est, ut tuum quoque inimicum diligas, et ei
+        qui tibi malum vult et si potest facit, tu semper bonum velis faciasque quod possis, audiens
+        dicentem Iesum : Diligite inimicos vestros, bene facite eis qui vos oderunt, et orate pro
+        eis qui vos persequuntur. Sed quoniam perfectorum sunt ista filiorum Dei, quo quidem se
+        debet omnis fidelis extendere et humanum animum ad hunc affectum orando Deum secumque agendo
+        luctandoque perducere, tamen quia hoc tam magnum bonum tantae multitudinis non est quantam
+        credimus exaudiri cum in oratione dicitur: Dimitte nobis debita nostra sicut et nos
+        dimittimus debitoribus nostris, procul dubio verba sponsionis huius implentur si homo
+        qui nondum ita profecit ut iam diligat inimicum, tamen quando rogatur ab homine qui peccavit
+        in eum ut ei dimittat, dimittit ex corde, quia etiam sibi roganti utique vult dimitti cum
+        orat et dicit: Sicut et nos dimittimus debitoribus nostris, id est: sic dimitte debita
+        nostra rogantibus nobis sicut et nos dimittimus rogantibus debitoribus nostris. </p>
+            </div>
+            <div>
+               <head>Caput 74</head>
+               <p> Iam vero qui eum in quem peccavit hominem rogat, si peccato suo movetur ut roget, non est
+        adhuc deputandus inimicus ut eum diligere sit difficile, sicut difficile erat quando
+        inimicitias exercebat. Quisquis autem nec roganti et peccati sui paenitenti ex corde suo
+        dimittit, nullo modo existimet a Domino sua peccata dimitti, quoniam mentiri veritas non
+        potest. Quem vero Evangelii lateat auditorem sive lectorem, quis dixerit: Ego sum veritas
+        ? Qui cum docuisset orationem, hanc in ea positam sententiam vehementer commendavit
+        dicens: Si enim dimiseritis hominibus peccata eorum, dimittet et vobis Pater vester
+        caelestis peccata vestra; si autem non dimiseritis hominibus, nec Pater vester dimittet
+        peccata vestra. Ad tam magnum tonitruum qui non expergiscitur, non dormit sed mortuus
+        est: et tamen potens est ille etiam mortuos suscitare. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

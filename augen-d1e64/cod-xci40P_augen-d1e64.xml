@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>3</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>3</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e64">
+            <head xml:id="augen-d1e64-Hd1e102">3</head>
+            <div xml:id="augen-d1e64-Dd1e105">
+               <head xml:id="augen-d1e64-Hd1e107">Caput 9</head>
+               <p xml:id="augen-d1e64-d1e110"><!--.--> Quid credendum, servato Symboli ordine, deinceps explicatur. Non opus esse curiosa
+        inquisitione rerum naturalium. Christiano sufficere si credat a summe bona Trinitate omnia
+        creata esse, eaque bona. Cum ergo quaeritur quid credendum sit quod ad religionem pertineat,
+        non rerum natura ita rimanda est quemadmodum ab eis quos physicos Graeci vocant, nec
+        metuendum est ne aliquid de vi et numero elementorum, de motu atque ordine et defectibus
+        siderum, de figura caeli, de generibus et naturis animalium fruticum lapidum fontium
+        fluminum montium, de spatiis locorum et temporum, de signis imminentium tempestatum, et
+        talia sescenta de his rebus quas illi vel invenerunt vel invenisse se existimant,
+        christianus ignoret: quia nec ipsi omnia reppererunt, tanto excellentes ingenio flagrantes
+        studio abundantes otio, et quaedam humana coniectura investigantes, quaedam vero historica
+        experientia perscrutantes, et in eis quae se invenisse gloriantur plura opinantes potius
+        quam scientes. Satis est christiano rerum creatarum causam sive caelestium sive terrestrium,
+        sive visibilium sive invisibilium, non nisi bonitatem credere Creatoris qui est Deus unus et
+        verus, nullamque esse naturam quae non aut ipse sit aut ab ipso: eumque esse Trinitatem,
+        Patrem scilicet et Filium a Patre genitum et Spiritum Sanctum ab eodem Patre procedentem,
+        sed unum eundemque Spiritum et Patris et Filii.</p>
+
+
+            </div>
+            <div xml:id="augen-d1e64-Dd1e115">
+               <head xml:id="augen-d1e64-Hd1e117">Caput 10</head>
+
+
+               <p xml:id="augen-d1e64-d1e120">Ab hac summe et aequaliter et immutabiliter bona Trinitate creata sunt omnia, nec summe nec
+        aequaliter nec immutabiliter bona, sed tamen bona etiam singula: simul vero universa valde
+        bona, quia ex omnibus consistit universitatis admirabilis pulchritudo.</p>
+
+
+            </div>
+            <div xml:id="augen-d1e64-Dd1e124">
+               <head xml:id="augen-d1e64-Hd1e126">Caput 11</head>
+
+
+               <p xml:id="augen-d1e64-d1e129">In qua etiam illud quod malum dicitur, bene ordinatum et loco suo positum, eminentius
+        commendat bona, ut magis placeant et laudabiliora sint dum comparantur malis. Neque enim
+        Deus omnipotens quod etiam infideles fatentur: Rerum cui summa potestas  cum summe bonus
+        sit, ullo modo sineret mali esse aliquid in operibus suis nisi usque adeo esset omnipotens
+        et bonus ut bene faceret et de malo. Quid est autem aliud quod malum dicitur, nisi privatio
+        boni? Nam sicut corporibus animalium nihil est aliud morbis et vulneribus affici quam
+        sanitate privari (neque enim id agitur cum adhibetur curatio, ut mala ista quae inerant, id
+        est morbi ac vulnera, recedant hinc et alibi sint, sed utique ut non sint; non enim ulla
+        substantia, sed carnalis substantiae vitium est vulnus aut morbus, cum caro sit ipsa
+        substantia, profecto aliquod bonum cui accidunt ista mala, id est privationes eius boni quod
+        dicitur sanitas); ita et animorum quaecumque sunt vitia, naturalium sunt privationes
+        bonorum: quae cum sanantur non aliquo transferuntur, sed ea quae ibi erant, nusquam erunt,
+        quando in illa sanitate non erunt.</p>
+
+
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

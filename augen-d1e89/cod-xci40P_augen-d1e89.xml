@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>6</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>6</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e89">
+            <head xml:id="augen-d1e89-Hd1e102">6</head>
+            <div xml:id="augen-d1e89-Dd1e105">
+               <head xml:id="augen-d1e89-Hd1e107">Caput 18</head>
+               <p xml:id="augen-d1e89-d1e110">Verum hic difficillima et latebrosissima gignitur quaestio, de qua iam grande librum, cum
+        respondendi necessitas nos urgueret, absolvimus, utrum ad officium hominis iusti pertineat
+        aliquando mentiri. Nonnulli enim eo usque progrediuntur ut et peierare et de rebus ad Dei
+        cultum pertinentibus ac de ipsa Dei natura falsum aliquid dicere nonnumquam bonum piumque
+        opus esse contendant. Mihi autem videtur peccatum quidem esse omne mendacium, sed multum
+        interesse quo animo et quibus de rebus quisque mentiatur. Non enim sic peccat ille qui
+        consulendi, quomodo ille qui nocendi voluntate mentitur, aut vero tantum nocet qui viatorem
+        mentiendo in diversum iter mittit, quantum is qui viam vitae mendacio fallente depravat.
+        Nemo sane mentiens iudicandus est qui dicit falsum quod putat verum, quoniam quantum in ipso
+        est non fallit ipse sed fallitur. Non itaque mendacii sed aliquando temeritatis arguendus
+        est qui falsa incautius credita pro veris habet, potiusque e contrario, quantum in ipso est
+        ille mentitur qui dicit verum quod putat falsum. Quantum enim ad animum eius attinet, quia
+        non quod sentit hoc dicit, non verum dicit, quamvis verum inveniatur esse quod dicit; nec
+        ullo modo liber est a mendacio qui ore nesciens verum loquitur, sciens autem voluntate
+        mentitur. Non consideratis itaque rebus ipsis de quibus aliquid dicitur, sed sola intentione
+        dicentis, melior est qui nesciens falsum dicit quoniam id verum putat, quam qui mentiendi
+        animum sciens gerit nesciens verum esse quod dicit. Ille namque non aliud habet in animo
+        aliud in verbo: huic vero, qualecumque per se ipsum sit quod ab eo dicitur, aliud tamen
+        clausum in pectore aliud in lingua promptum est, quod malum est proprium mentientis. In
+        ipsarum autem quae dicuntur consideratione rerum tantum interest qua in re quisque fallatur
+        sive mentiatur, ut cum falli quam mentiri minus sit malum quantum pertinet ad hominis
+        voluntatem, tamen longe tolerabilius sit in his quae a religione sunt seiuncta mentiri, quam
+        in his sine quorum fide vel notitia Deus coli non potest falli. Quod ut illustretur
+        exemplis, intueamur quale sit si quispiam dum mentitur vivere nuntiet aliquem mortuum, et
+        alius dum fallitur credat iterum Christum post quamlibet longa tempora moriturum: nonne illo
+        modo mentiri quam isto modo falli incomparabiliter praestat multoque minoris mali est in
+        illum errorem aliquem inducere quam in istum ab aliquo induci?</p>
+
+
+            </div>
+            <div xml:id="augen-d1e89-Dd1e114">
+               <head xml:id="augen-d1e89-Hd1e116">Caput 19</head>
+               <p xml:id="augen-d1e89-d1e119">In quibusdam ergo rebus magno, in quibusdam parvo, in quibusdam nullo malo, in quibusdam
+        nonnullo etiam bono fallimur. Nam magno malo fallitur homo cum hoc non credit quod ad vitam
+        ducit aeternam, vel hoc credit quod ad mortem ducit aeternam. Parvo autem malo fallitur qui
+        falsum pro vero approbando incidit in aliquas temporales molestias, quibus tamen adhibita
+        fidelis patientia convertit eas in usum bonum, velut si quisquam bonum hominem putando qui
+        malus est, aliquid ab eo patiatur mali. Qui vero malum hominem ita bonum credit ut nihil ab
+        eo mali patiatur, nullo malo fallitur, nec in eum cadit illa prophetica detestatio: Vae his
+        qui dicunt quod malum est bonum. De ipsis enim rebus quibus homines mali sunt, non de
+        hominibus dictum intellegendum est. Unde qui adulterium dicit bonum, recte arguitur illa
+        voce prophetae; qui vero ipsum hominem dicit bonum quem putat castum, nescit adulterum, non
+        in doctrina rerum bonarum et malarum sed in occultis humanorum fallitur morum, vocans
+        hominem bonum in quo putat esse quod novit bonum, et dicens malum adulterum et bonum castum,
+        sed hunc bonum dicens nesciendo adulterum esse, non castum. Porro si per errorem evadit
+        quisque perniciem, sicut superius dixi nobis in itinere contigisse, etiam boni aliquid
+        homini errore confertur. Sed cum dico in quibusdam rebus nullo malo aliquem vel nonnullo
+        etiam bono falli, non ipsum errorem dico nullum malum vel nonnullum bonum, sed malum quo non
+        venitur vel bonum quo venitur errando, id est, ex ipso errore quid non eveniat vel quid
+        proveniat. Nam ipse per se ipsum error aut magnum in re magna aut parvum in re parva, tamen
+        semper est malum. Quis enim nisi errans malum neget approbare falsa pro veris aut improbare
+        vera pro falsis, aut habere incerta pro certis vel certa pro incertis? Sed aliud est bonum
+        hominem putare qui malus est, quod est erroris, et aliud est ex hoc malo aliud malum non
+        pati, si nihil noceat homo malus qui est putatus bonus. Itemque aliud est ipsam viam putare
+        quae non est ipsa, et aliud est ex hoc erroris malo aliquid boni consequi velut est ab
+        insidiis malorum hominum liberari.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

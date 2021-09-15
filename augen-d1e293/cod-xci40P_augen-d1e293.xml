@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>31</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>31</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e293">
+            <head xml:id="augen-d1e293-Hd1e102">31</head>
+            <div xml:id="augen-d1e293-Dd1e105">
+               <head xml:id="augen-d1e293-Hd1e107">117</head>
+               <p xml:id="augen-d1e293-d1e110"> Iam porro caritas, quam duabus istis, id est fide ac spe, maiorem dicit Apostolus,
+        quanto in quocumque maior est, tanto melior est in quo est. Cum enim quaeritur utrum quisque
+        sit homo bonus, non quaeritur quid credat aut quid speret, sed quid amet. Nam qui recte amat
+        procul dubio recte credit et sperat; qui vero non amat inaniter credit, etiam si sint vera
+        quae credit; inaniter sperat, etiam si ad veram felicitatem doceantur pertinere quae sperat,
+        nisi et hoc credat ac speret, quod sibi petenti donari possit ut amet. Quamvis enim sperare
+        sine amore non possit, fieri tamen potest ut id non amet sine quo ad id quod sperat non
+        potest pervenire, tamquam si speret vitam aeternam (quam quis non amat?) et non amet
+        iustitiam, sine qua nemo ad illam pervenit. Ipsa est autem fides Christi, quam commendat
+        Apostolus, quae per dilectionem operatur, et quod in dilectione nondum habet petit ut
+        accipiat, quaerit ut inveniat, pulsat ut aperiatur ei. Fides namque impetrat quod lex
+        imperat. Nam sine Dei dono, id est, sine Spiritu Sancto, per quem diffunditur caritas in
+        cordibus nostris, iubere lex poterit, non iuvare, et praevaricatorem insuper facere qui
+        de ignorantia se excusare non possit. Regnat enim carnalis cupiditas ubi non est Dei
+        caritas. </p>
+            </div>
+            <div xml:id="augen-d1e293-Dd1e114">
+               <head xml:id="augen-d1e293-Hd1e116">Caput 118</head>
+               <p xml:id="augen-d1e293-d1e119"> Sed cum in altissimis ignorantiae tenebris, nulla resistente ratione, secundum carnem
+        vivitur, haec sunt prima hominis. Deinde cum per legem cognitio fuerit facta peccati, si
+        nondum divinus adiuvat Spiritus, secundum legem volens vivere vincitur et sciens peccat,
+        peccatoque subditus servit: A quo enim quis devictus est, huic et servus addictus est;
+        id agente scientia mandati ut peccatum operetur in homine omnem concupiscentiam, cumulo
+        praevaricationis adiecto, atque ita quod scriptum est impleatur: Lex subintravit ut
+        abundaret delictum. Haec sunt secunda hominis. Si autem respexerit Deus ut ad implenda
+        quae mandat ipse adiuvare credatur, et agi homo coeperit Dei Spiritu, concupiscitur adversus
+        carnem fortiore robore caritatis, ut quamvis adhuc sit quod homini repugnet ex homine,
+        nondum tota infirmitate sanata, ex fide tamen iustus vivat, iusteque vivat in quantum
+        non cedit malae concupiscentiae, vincente delectatione iustitiae. Haec sunt tertia bonae
+        spei hominis, in quibus si pia perseverantia quisque proficiat postrema pax restat, quae
+        post hanc vitam in requie spiritus, deinde in resurrectione etiam carnis implebitur. Harum
+        quattuor differentiarum prima est ante legem, secunda sub lege, tertia sub gratia, quarta in
+        pace plena atque perfecta. Sic est et Dei populus ordinatus per intervalla temporum, sicut
+        Deo placuit qui in mensura et numero et pondere cuncta disponit. Nam fuit primitus ante
+        legem, secundo sub lege quae data est per Moysem, deinde sub gratia quae revelata est per
+        primum Mediatoris adventum. Quae quidem gratia nec antea defuit quibus eam oportuit
+        impertiri, quamvis pro temporis dispensatione velata et occulta. Neque enim antiquorum
+        quicumque iustorum praeter Christi fidem salutem potuit invenire, aut vero, nisi et illis
+        cognitus fuisset, potuisset nobis per eorum ministerium alias apertius alias occultius
+        prophetari. </p>
+            </div>
+            <div xml:id="augen-d1e293-Dd1e123">
+               <head xml:id="augen-d1e293-Hd1e125">Caput 119</head>
+               <p xml:id="augen-d1e293-d1e128"> In quacumque autem quattuor istarum velut aetatum singulum quemque hominem gratia
+        regenerationis invenerit, ibi ei remittuntur praeterita universa peccata, et reatus ille
+        nascendo contractus renascendo dissolvitur, tamque multum valet quod Spiritus ubi vult
+        spirat, ut quidam secundam illam servitutem sub lege non noverint, sed cum mandato
+        incipiant adiutorium habere divinum. </p>
+            </div>
+            <div xml:id="augen-d1e293-Dd1e132">
+               <head xml:id="augen-d1e293-Hd1e134">Caput 120</head>
+               <p xml:id="augen-d1e293-d1e137"> Antequam possit autem homo capax esse mandati secundum carnem vivat necesse est. Sed si
+        iam sacramento regenerationis imbutus est, nihil ei oberit si tunc ex hac vita migraverit:
+        quia ideo Christus mortuus est et resurrexit, ut et vivorum et mortuorum  dominetur, nec
+        tenebit regnum mortis eum pro quo mortuus est ille liber in mortuis. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

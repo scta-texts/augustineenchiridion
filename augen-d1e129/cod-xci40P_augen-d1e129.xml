@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>11</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>11</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e129">
+            <head xml:id="augen-d1e129-Hd1e102">11</head>
+            <div xml:id="augen-d1e129-Dd1e105">
+               <head xml:id="augen-d1e129-Hd1e107">Caput 36</head>
+               <p xml:id="augen-d1e129-d1e110"> Hic omnino granditer et evidenter Dei gratia commendatur. Quid enim natura humana in
+        homine Christo meruit, ut in unitatem personae unici Filii Dei singulariter esset assumpta?
+        Quae bona voluntas, cuius boni propositi studium, quae bona opera praecesserunt, quibus
+        mereretur iste homo una fieri persona cum Deo? Numquid antea fuit homo, et hoc ei singulare
+        beneficium praestitum est, ut singulariter promereretur Deum? Nempe ex quo esse homo coepit,
+        non aliud coepit esse quam Dei Filius, et hoc unicus; et propter Deum Verbum, quod illo
+        suscepto caro factum est, utique Deus, ut quemadmodum est una persona quilibet homo, anima
+        scilicet rationalis et caro, ita sit Christus una persona, Verbum et homo. Unde naturae
+        humanae tanta gloria, nullis praecedentibus meritis sine dubitatione gratuita, nisi quia
+        magna hic et sola Dei gratia fideliter et sobrie considerantibus evidenter ostenditur, ut
+        intellegant homines per eamdem gratiam se iustificari a peccatis, per quam factum est ut
+        homo Christus nullum posset habere peccatum? Sic et eius matrem angelus salutavit quando ei
+        futurum nuntiavit hunc partum: Ave, inquit, gratia plena; et paulo post: Invenisti gratiam
+        apud Deum. Et haec quidem gratia plena, et invenisse apud Deum gratiam dicitur, ut Domini
+        sui, immo omnium Domini, mater esset. De ipso autem Christo Ioannes evangelista cum
+        dixisset: Et Verbum caro factum est et habitavit in nobis, et vidimus, inquit, gloriam eius,
+        gloriam quasi unigeniti a Patre, plenum gratiae et veritatis. Quod ait: Verbum caro
+        factum est, hoc est, plenum gratiae; quod autem ait: Gloriam unigeniti a Patre, hoc est,
+        plenum veritatis. Veritas quippe ipsa, unigenitus Dei Filius non gratia sed natura, gratia
+        suscepit hominem tanta unitate personae ut idem ipse esset etiam hominis filius. </p>
+            </div>
+            <div xml:id="augen-d1e129-Dd1e114">
+               <head xml:id="augen-d1e129-Hd1e116">Caput 37</head>
+               <p xml:id="augen-d1e129-d1e119"> Idem namque Iesus Christus, Filius Dei unigenitus, id est unicus, Dominus noster, natus
+        est de Spiritu Sancto et Maria virgine. Et utique Spiritus Sanctus Dei donum est, quod
+        quidem et ipsum est aequale donanti, et ideo Deus est etiam Spiritus Sanctus, Patre Filioque
+        non minor. Et hoc ergo quod de Spiritu Sancto est secundum hominem nativitas Christi, quid
+        aliud quam ipsa gratia demonstratur? Cum enim virgo quaesisset ab angelo quomodo fieret quod
+        ei nuntiabat, quandoquidem illa virum non cognosceret, respondit angelus: Spiritus Sanctus
+        superveniet in te et virtus Altissimi obumbrabit tibi, ideoque quod nascetur ex te sanctum
+        vocabitur, Filius Dei. Et Ioseph cum vellet eam dimittere, suspicatus adulteram, quam
+        sciebat non de se gravidam, tale responsum ab angelo accepit: Noli timere accipere Mariam
+        coniugem tuam, quod enim in ea natum est de Spiritu Sancto est : id est, quod tu esse de
+        viro alio suspicaris, de Spiritu Sancto est. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

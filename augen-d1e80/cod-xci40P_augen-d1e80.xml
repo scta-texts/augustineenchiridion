@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>5</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>5</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e80">
+            <head xml:id="augen-d1e80-Hd1e102">5</head>
+            <div xml:id="augen-d1e80-Dd1e105">
+               <head xml:id="augen-d1e80-Hd1e107">Caput 16</head>
+               <p xml:id="augen-d1e80-d1e110">Quae cum ita sint, quando nobis Maronis ille versus placet: Felix qui potuit rerum
+        cognoscere causas, non nobis videatur ad felicitatem consequendam pertinere si sciamus
+        causas magnarum in mundo corporalium motionum, quae abditissimis naturae sinibus occuluntur:
+        Unde tremor terris, qua vi maria alta tumescant, obicibus ruptis, rursusque in se ipsa
+        residant, et cetera huiusmodi. Sed bonarum et malarum rerum causas nosse debemus, et id
+        hactenus quatenus eas homini, in hac vita erroribus aerumnisque plenissima, ad eosdem
+        errores et aerumnas evadendas nosse conceditur. Ad illam quippe felicitatem tendendum est
+        ubi nulla quatiamur aerumna, nullo errore fallamur. Nam si causae corporalium motionum
+        noscendae nobis essent, nullas magis nosse quam nostrae valetudinis deberemus; cum vero eis
+        ignoratis medicos quaerimus, quis non videat quod de secretis caeli et terrae nos latet
+        quanta sit patientia nesciendum?</p>
+            </div>
+            <div xml:id="augen-d1e80-Dd1e114">
+               <head xml:id="augen-d1e80-Hd1e116">Caput 17</head>
+               <p xml:id="augen-d1e80-d1e119">Quamvis enim error quanta possumus cura cavendus sit non solum in maioribus, verum etiam in
+        minoribus rebus, nec nisi rerum ignorantia possit errari, non est tamen consequens ut
+        continuo erret quisquis aliquid nescit, sed quisquis se existimat scire quod nescit; pro
+        vero quippe approbat falsum, quod est erroris proprium. Verumtamen in qua re quisque
+        erret interest plurimum. Nam in una eademque re et nescienti sciens et erranti non errans
+        recta ratione praeponitur. In diversis autem rebus, id est, cum iste sciat alia, ille alia,
+        et iste utiliora, et ille minus utilia vel etiam noxia, quis non in eis quae ille scit ei
+        praeferat nescientem? Sunt enim quaedam quae nescire quam scire sit melius. Itemque
+        nonnullis errare profuit aliquando, sed in via pedum non in via morum. Nam nobis ipsis
+        accidit ut in quodam bivio falleremur et non iremus per eum locum ubi opperiens transitum
+        nostrum donatistarum manus armata subsederat, atque ita factum est ut eo quo tendebamus per
+        devium circuitum veniremus, cognitisque insidiis illorum nos gratularemur errasse atque inde
+        gratias ageremus Deo. Quis ergo viatorem sic errantem sic non erranti latroni praeponere
+        dubitaverit? Et fortasse ideo apud illum summum poetam loquens quidam miser amator, Ut vidi,
+        inquit, ut perii, ut me malus abstulit error!  quoniam est et error bonus qui non solum
+        nihil obsit verum etiam prosit aliquid. Sed diligentius considerata veritate, cum aliud non
+        sit errare quam verum putare quod falsum est, falsumque quod verum est, vel certum habere
+        pro incerto, incertumve pro certo, sive falsum sive sit verum, idque tam sit in animo
+        deforme atque indecens quam pulchrum ac decorum esse sentimus vel in loquendo vel in
+        assentiendo: Est, est; non, non; profecto et ob hoc ipsum est vita misera ista qua
+        vivimus, quod ei nonnumquam, ut non amittatur, error est necessarius. Absit ut talis sit
+        illa vita ubi est animae nostrae ipsa veritas vita, ubi nemo fallit, fallitur nemo. Hic
+        autem homines fallunt atque falluntur, miserioresque sunt cum mentiendo fallunt quam cum
+        mentientibus credendo falluntur. Usque adeo tamen rationalis natura refugit falsitatem, et
+        quantum potest devitat errorem, ut falli nolint etiam quicumque amant fallere. Non enim sibi
+        qui mentitur videtur errare, sed alium in errorem mittere credentem sibi. Et in ea quidem re
+        non errat quam mendacio contegit, si novit ipse quid verum sit sed in hoc fallitur, quod
+        putat sibi suum non obesse mendacium, cum magis facienti quam patienti obsit omne peccatum.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

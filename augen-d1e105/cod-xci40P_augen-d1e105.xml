@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>8</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>8</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e105">
+            <head xml:id="augen-d1e105-Hd1e102">8</head>
+            <div xml:id="augen-d1e105-Dd1e105">
+               <head xml:id="augen-d1e105-Hd1e107">Caput 23</head>
+               <p xml:id="augen-d1e105-d1e110"> His itaque pro huius brevitatis necessitate tractatis, quoniam causae cognoscendae sunt
+        rerum bonarum et malarum quantum viae satis est quae nos perducat ad regnum ubi erit vita
+        sine morte, sine errore veritas, sine perturbatione felicitas, nequaquam dubitare debemus
+        rerum quae ad nos pertinent bonarum causam non esse nisi bonitatem Dei; malarum vero ab
+        immutabili bono deficientem boni mutabilis voluntatem, prius angeli, hominis postea. </p>
+            </div>
+            <div xml:id="augen-d1e105-Dd1e114">
+               <head xml:id="augen-d1e105-Hd1e116">Caput 24</head>
+               <p xml:id="augen-d1e105-d1e119">Hoc primum est creaturae rationalis malum, id est prima privatio boni. Deinde iam etiam
+        nolentibus subintravit ignorantia rerum agendarum et concupiscentia noxiarum, quibus comites
+        subinferuntur error et dolor, quae duo mala quando imminentia sentiuntur, ea fugitantis
+        animi motus vocatur metus. Porro animus cum adipiscitur concupita, quamvis perniciosa et
+        inania, quoniam id errore non sentit vel delectatione morbida vincitur vel vana etiam
+        laetitia ventilatur. Ex his morborum non ubertatis sed indigentiae tamquam fontibus omnis
+        miseria naturae rationalis emanat.</p>
+            </div>
+            <div xml:id="augen-d1e105-Dd1e123">
+               <head xml:id="augen-d1e105-Hd1e125">Caput 25</head>
+               <p xml:id="augen-d1e105-d1e128">Quae tamen natura in malis suis non potuit amittere beatitudinis appetitum. Verum haec
+        communia mala sunt et hominum et angelorum pro sua malitia Domini iustitia damnatorum. Sed
+        homo habet et poenam propriam, qua etiam corporis morte punitus est. Mortis ei quippe
+        supplicium Deus comminatus fuerat si peccaret, sic eum munerans libero arbitrio ut tamen
+        regeret imperio, terreret exitio, atque in paradisi felicitate, tamquam in umbra vitae,
+        unde iustitia custodita in meliora conscenderet, collocavit. </p>
+            </div>
+            <div xml:id="augen-d1e105-Dd1e132">
+               <head xml:id="augen-d1e105-Hd1e134">Caput 26</head>
+               <p xml:id="augen-d1e105-d1e137"> Hinc post peccatum exul effectus stirpem quoque suam, quam peccando in se tamquam in
+        radice vitiaverat, poena mortis et damnationis obstrinxit, ut quidquid prolis ex illo et
+        simul damnata per quam peccaverat coniuge per carnalem concupiscentiam in qua inobedientiae
+        poena similis retributa est nasceretur, traheret originale peccatum, quo traheretur per
+        errores doloresque diversos ad illud extremum cum desertoribus angelis, vitiatoribus et
+        possessoribus et consortibus suis, sine fine supplicium. Sic per unum hominem peccatum
+        intravit in mundum et per peccatum mors, et ita in omnes homines pertransiit, in quo omnes
+        peccaverunt. Mundum quippe appellavit eo loco Apostolus universum genus humanum. </p>
+            </div>
+            <div xml:id="augen-d1e105-Dd1e142">
+               <head xml:id="augen-d1e105-Hd1e144">Caput 27</head>
+               <p xml:id="augen-d1e105-d1e147"> Ita ergo res se habebant. Iacebat in malis, vel etiam volvebatur, et de malis in mala
+        praecipitabatur totius humani generis massa damnata, et adiuncta parti eorum qui peccaverant
+        angelorum luebat impiae desertionis dignissimas poenas. Ad iram quippe Dei pertinet iustam
+        quidquid caeca et indomita concupiscentia faciunt libenter mali, et quidquid apertis
+        manifestisque poenis patiuntur inviti, non sane Creatoris desistente bonitate et malis
+        angelis subministrare vitam vivacemque potentiam, quae subministratio si auferatur
+        interibunt; et hominum quamvis de propagine vitiata damnataque nascentium formare semina et
+        animare, ordinare membra per temporum aetates, per locorum spatia, vegetare sensus, alimenta
+        donare. Melius enim iudicavit de malis bene facere quam mala nulla esse permittere. Et si
+        quidem in melius hominum reformationem nullam prorsus esse voluisset, sicut impiorum nulla
+        est angelorum, nonne merito fieret ut natura quae Deum deseruit, quae praeceptum sui
+        Creatoris quod custodire facillime posset sua male utens potestate calcavit atque
+        transgressa est, quae in se sui Conditoris imaginem ab eius lumine contumaciter aversa
+        violavit, quae salubrem servitutem ab eius legibus male libero abrupit arbitrio, universa in
+        aeternum desereretur ab eo, et pro suo merito poenam penderet sempiternam? Plane ita
+        faceret, si tantum iustus non etiam misericors esset, suamque indebitam misericordiam multo
+        evidentius in indignorum potius liberatione monstraret. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>28</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>28</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e268">
+            <head xml:id="augen-d1e268-Hd1e102">28</head>
+            <div xml:id="augen-d1e268-Dd1e105">
+               <head xml:id="augen-d1e268-Hd1e107">104</head>
+               <p xml:id="augen-d1e268-d1e110">Quapropter etiam primum hominem Deus in ea salute in qua conditus erat custodire voluisset,
+        eumque opportuno tempore post genitos filios sine interpositione mortis ad meliora
+        perducere, ubi iam non solum peccatum committere sed nec voluntatem posset habere peccandi,
+        si ad permanendum sine peccato, sicut factus erat, perpetuam voluntatem habiturum esse
+        praescisset. Quia vero eum male usurum libero arbitrio, hoc est peccaturum esse,
+        praesciebat, ad hoc potius praeparavit voluntatem suam ut bene ipse faceret etiam de male
+        faciente, ac sic hominis voluntate mala non evacuaretur sed nihilo minus impleretur
+        omnipotentis bona. </p>
+            </div>
+            <div xml:id="augen-d1e268-Dd1e114">
+               <head xml:id="augen-d1e268-Hd1e116">Caput 105</head>
+               <p xml:id="augen-d1e268-d1e119"> Sic enim oportebat prius hominem fieri ut et bene velle posset et male, nec gratis si bene
+        nec impune si male. Postea vero sic erit ut male velle non possit, nec ideo libero carebit
+        arbitrio. Multo quippe liberius erit arbitrium quod omnino non poterit servire peccato.
+        Neque enim culpanda est voluntas, aut voluntas non est, aut libera dicenda non est, qua
+        beati esse sic volumus ut esse miseri non solum nolimus sed nequaquam prorsus velle
+        possimus. Sicut ergo anima nostra etiam nunc nolle infelicitatem, ita nolle iniquitatem
+        semper habitura est. Sed ordo praetermittendus non fuit, in quo Deus voluit ostendere quam
+        bonum sit animal rationale quod etiam non peccare possit, quamvis sit melius quod peccare
+        non possit; sicut minor fuit immortalitas, sed tamen fuit, in qua posset etiam non mori,
+        quamvis maior futura sit in qua non possit mori. </p>
+            </div>
+            <div xml:id="augen-d1e268-Dd1e123">
+               <head xml:id="augen-d1e268-Hd1e125">Caput 106</head>
+               <p xml:id="augen-d1e268-d1e128"> Illam natura humana perdidit per liberum arbitrium, hanc est acceptura per gratiam, quam
+        fuerat si non peccasset acceptura per meritum. Quamvis sine gratia nec tunc ullum meritum
+        esse potuisset, quia etsi peccatum in solo erat libero arbitrio constitutum, non tamen
+        iustitiae retinendae sufficiebat liberum arbitrium nisi participatione immutabilis boni
+        divinum adiutorium praeberetur. Sicut enim mori est in hominis potestate cum velit, nemo est
+        enim qui non se ipsum, ut nihil aliud dicam, vel non vescendo possit occidere; ad tenendam
+        vero vitam voluntas non satis est si adiutoria sive alimentorum sive quorumcumque tutaminum
+        desint; sic homo in paradiso ad se occidendum relinquendo iustitiam idoneus erat per
+        voluntatem, ut autem ab eo teneretur vita iustitiae parum erat velle nisi ille qui eum
+        fecerat adiuvaret. Sed post illam ruinam maior est misericordia Dei, quando et ipsum
+        arbitrium liberandum est a servitute, cui dominatur cum morte peccatum. Nec omnino per se
+        ipsum, sed per solam Dei gratiam quae in fide Christi posita est, liberatur; ut voluntas
+        ipsa, sicut scriptum est, a Domino praeparetur, qua cetera Dei munera capiantur per quae
+        veniatur ad munus aeternum. </p>
+            </div>
+            <div xml:id="augen-d1e268-Dd1e132">
+               <head xml:id="augen-d1e268-Hd1e134">Caput 107</head>
+               <p xml:id="augen-d1e268-d1e137"> Unde et ipsam vitam aeternam, quae certe merces est operum bonorum, gratiam Dei appellat
+        Apostolus: Stipendium, inquit, peccati mors, gratia autem Dei vita aeterna in Christo Iesu
+        Domino nostro. Stipendium pro opere militiae debitum redditur, non donatur; ideo dixit:
+        Stipendium peccati mors, ut mortem peccato non immerito illatam sed debitam demonstraret.
+        Gratia vero nisi gratis est gratia non est. Intellegendum est igitur etiam ipsa hominis
+        bona merita esse Dei munera, quibus cum vita aeterna redditur quid nisi gratia pro gratia
+        redditur ? Sic ergo factus est homo rectus  ut et manere in ea rectitudine posset non
+        sine divino adiutorio, et suo fieri perversus arbitrio. Utrumlibet horum elegisset, Dei
+        voluntas fieret, aut etiam ab illo aut certe de illo. Proinde quia suam maluit facere quam
+        Dei, de illo facta est voluntas Dei, qui ex eadem massa perditionis quae de illius stirpe
+        profluxit, facit aliud vas in honorem aliud in contumeliam: in honorem per misericordiam, in
+        contumeliam per iudicium, ut nemo glorietur in homine, ac per hoc nec in se. </p>
+            </div>
+            <div xml:id="augen-d1e268-Dd1e142">
+               <head xml:id="augen-d1e268-Hd1e144">Caput 108</head>
+               <p xml:id="augen-d1e268-d1e147"> Nam neque per ipsum liberaremur unum Mediatorem Dei et hominum, hominem Christum
+        Iesum, nisi esset et Deus. Sed cum factus est Adam, homo scilicet rectus, mediatore non opus
+        erat. Cum vero genus humanum peccata longe separaverunt a Deo, per Mediatorem qui solus sine
+        peccato natus est, vixit, occisus est, reconciliari nos oportebat Deo usque ad carnis
+        resurrectionem in vitam aeternam; ut humana superbia per humilitatem Dei argueretur ac
+        sanaretur, et demonstraretur homini quam longe a Deo recesserat, cum per incarnatum Deum
+        revocaretur, et exemplum oboedientiae per hominem Deum contumaci homini praeberetur, et
+        Unigenito suscipiente formam servi quae nihil ante meruerat fons gratiae panderetur, et
+        carnis etiam resurrectio redemptis promissa in ipso Redemptore praemonstraretur, et per
+        eamdem naturam quam se decipisse laetabatur diabolus vinceretur, nec tamen homo gloriaretur,
+        ne iterum superbia nasceretur; et si quid aliud de tanto Mediatoris sacramento a
+        proficientibus videri et dici potest, aut tantum videri etiam si dici non potest. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

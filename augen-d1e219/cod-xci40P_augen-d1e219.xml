@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>22</title>
+            <author ref="#Augustine">Augustinus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>22</title>
+               <date when="2021-09-06">September 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="PL" n="cod-xci40P">PL 40</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-09-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="augen-d1e219">
+            <head xml:id="augen-d1e219-Hd1e102">22</head>
+            <div xml:id="augen-d1e219-Dd1e105">
+               <head xml:id="augen-d1e219-Hd1e107">Caput 81</head>
+               <p xml:id="augen-d1e219-d1e110">Hoc nunc dicam quod quidem et in aliis opusculorum meorum locis saepe iam dixi: Duabus ex
+        causis peccamus, aut nondum videndo quod facere debeamus, aut non faciendo quod debere fieri
+        iam videmus; quorum duorum illud ignorantiae malum est, hoc infirmitatis. Contra quae quidem
+        pugnare nos convenit. Sed profecto vincimur, nisi divinitus adiuvemur, ut non solum videamus
+        quid faciendum sit, sed etiam accedente sanitate delectatio iustitiae vincat in nobis earum
+        rerum delectationes, quas vel habere cupiendo, vel amittere metuendo, scientes videntesque
+        peccamus; iam non solum peccatores, quod eramus etiam cum per ignorantiam peccabamus, verum
+        etiam legis praevaricatores, cum id non facimus quod faciendum, vel facimus quod non
+        faciendum esse iam scimus. Quapropter non solum si peccavimus ut ignoscat, propter quod
+        dicimus: Dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris; verum
+        etiam ne peccemus, ut regat, propter quod dicimus: Ne nos inferas in temptationem  ille
+        rogandus est cui dicitur in Psalmo: Dominus illuminatio mea et salus mea, ut illuminatio
+        detrahat ignorantiam, salus infirmitatem. </p>
+            </div>
+            <div xml:id="augen-d1e219-Dd1e114">
+               <head xml:id="augen-d1e219-Hd1e116">Caput 82</head>
+               <p xml:id="augen-d1e219-d1e119">Nam et ipsa paenitentia, quando digna causa est secundum morem Ecclesiae cur agatur,
+        plerumque infirmitate non agitur, quia et pudor timor est displicendi, dum plus delectat
+        hominum aestimatio quam iustitia qua se quisque humiliat paenitendo. Unde non solum cum
+        agitur paenitentia, verum etiam ut agatur, Dei misericordia necessaria est. Alioquin non
+        diceret Apostolus de quibusdam: Ne forte det illis Deus paenitentiam; et ut Petrus amare
+        fleret, praemisit Evangelista et ait: Respexit eum Dominus. </p>
+            </div>
+            <div xml:id="augen-d1e219-Dd1e123">
+               <head xml:id="augen-d1e219-Hd1e125">Caput 83</head>
+               <p xml:id="augen-d1e219-d1e128">Qui vero in Ecclesia remitti peccata non credens contemnit tantam divini muneris
+        largitatem, et in hac obstinatione mentis diem claudit extremum, reus est illo irremissibili
+        peccato in Spiritum Sanctum, in quo Christus peccata dimittit. De qua quaestione
+        difficili in quodam propter hoc solum conscripto libello enucleatissime quantum potui
+        disputavi. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
