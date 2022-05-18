@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -52,19 +50,19 @@
       </front>
       <body>
          <div xml:id="augen-d1e195">
-            <head>19</head>
-            <div>
-               <head>Caput 70</head>
-               <p> Sane cavendum est ne quisquam existimet infanda illa crimina, qualia qui agunt regnum Dei
+            <head xml:id="augen-d1e195-Hd1e93">19</head>
+            <div xml:id="augen-d1e195-Dd1e95">
+               <head xml:id="augen-d1e195-Hd1e97">Caput 70</head>
+               <p xml:id="augen-d1e195-d1e99"> Sane cavendum est ne quisquam existimet infanda illa crimina, qualia qui agunt regnum Dei
         non possidebunt cotidie perpetranda et eleemosynis cotidie redimenda. In melius est quippe
         vita mutanda, et per eleemosynas de peccatis praeteritis est propitiandus Deus, non ad hoc
         emendus quodammodo ut ea semper liceat impune committere. Nemini enim dedit laxamentum
         peccandi, quamvis miserando deleat iam facta peccata, si non satisfactio congrua
         negligatur. </p>
             </div>
-            <div>
-               <head>Caput 71</head>
-               <p> De quotidianis autem brevibus levibusque peccatis sine quibus haec vita non ducitur,
+            <div xml:id="augen-d1e195-Dd1e102">
+               <head xml:id="augen-d1e195-Hd1e104">Caput 71</head>
+               <p xml:id="augen-d1e195-d1e106"> De quotidianis autem brevibus levibusque peccatis sine quibus haec vita non ducitur,
         cotidiana oratio fidelium satis facit. Eorum est enim dicere: Pater noster qui es in caelis
        , qui iam Patre tali regenerati sunt ex aqua et Spiritu Sancto. Delet omnino haec
         oratio minima et quotidiana peccata. Delet et illa a quibus vita fidelium etiam scelerate
@@ -73,9 +71,9 @@
         nos dimittimus debitoribus nostris, id est, fiat quod dicitur: quia et ipsa eleemosyna
         est veniam homini petenti ignoscere. </p>
             </div>
-            <div>
-               <head>Caput 72</head>
-               <p> Ac per hoc ad omnia quae utili misericordia fiunt valet quod Dominus ait: Date
+            <div xml:id="augen-d1e195-Dd1e109">
+               <head xml:id="augen-d1e195-Hd1e111">Caput 72</head>
+               <p xml:id="augen-d1e195-d1e113"> Ac per hoc ad omnia quae utili misericordia fiunt valet quod Dominus ait: Date
         eleemosynam, et ecce omnia munda sunt vobis. Non solum ergo qui dat esurienti cibum,
         sitienti potum, nudo vestimentum, peregrinanti hospitium, fugienti latibulum, aegro vel
         incluso visitationem, captivo redemptionem, debili subvectionem, caeco deductionem, tristi
@@ -90,9 +88,9 @@
         bonis, cum reddere mala christianus non debeat nec pro malis. Multa itaque genera sunt
         eleemosynarum, quae cum facimus adiuvamur ut dimittantur nostra peccata. </p>
             </div>
-            <div>
-               <head>Caput 73</head>
-               <p> Sed ea nihil est maius qua ex corde dimittimus quod in nos quisque peccavit. Minus enim
+            <div xml:id="augen-d1e195-Dd1e116">
+               <head xml:id="augen-d1e195-Hd1e118">Caput 73</head>
+               <p xml:id="augen-d1e195-d1e120"> Sed ea nihil est maius qua ex corde dimittimus quod in nos quisque peccavit. Minus enim
         magnum est erga eum esse benignum sive etiam beneficum, qui tibi nihil mali fecerit. Illud
         multo grandius, et magnificentissimae bonitatis est, ut tuum quoque inimicum diligas, et ei
         qui tibi malum vult et si potest facit, tu semper bonum velis faciasque quod possis, audiens
@@ -107,9 +105,9 @@
         orat et dicit: Sicut et nos dimittimus debitoribus nostris, id est: sic dimitte debita
         nostra rogantibus nobis sicut et nos dimittimus rogantibus debitoribus nostris. </p>
             </div>
-            <div>
-               <head>Caput 74</head>
-               <p> Iam vero qui eum in quem peccavit hominem rogat, si peccato suo movetur ut roget, non est
+            <div xml:id="augen-d1e195-Dd1e124">
+               <head xml:id="augen-d1e195-Hd1e126">Caput 74</head>
+               <p xml:id="augen-d1e195-d1e128"> Iam vero qui eum in quem peccavit hominem rogat, si peccato suo movetur ut roget, non est
         adhuc deputandus inimicus ut eum diligere sit difficile, sicut difficile erat quando
         inimicitias exercebat. Quisquis autem nec roganti et peccati sui paenitenti ex corde suo
         dimittit, nullo modo existimet a Domino sua peccata dimitti, quoniam mentiri veritas non
